@@ -1,0 +1,37 @@
+services:
+  database:
+    image: postgres:17-alpine
+    environment:
+      POSTGRES_DB: herbstore
+      POSTGRES_USER: herbstore
+      POSTGRES_PASSWORD: herbstore
+    ports:
+      - "5432:5432"
+    volumes:
+      - herbstore-data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U herbstore -d herbstore"]
+      interval: 3s
+      timeout: 3s
+      retries: 10
+
+  api:
+    build: .
+    environment:
+      DATABASE_URL: postgresql+psycopg://herbstore:herbstore@database:5432/herbstore
+      HOST: 0.0.0.0
+      PORT: 3001
+    ports:
+      - "3001:3001"
+    depends_on:
+      database:
+        condition: service_healthy
+    command: ["sh", "-c", "alembic upgrade head && python -m scripts.seed && uvicorn app.main:app --host 0.0.0.0 --port 3001"]
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:3001/health')"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+
+volumes:
+  herbstore-data:

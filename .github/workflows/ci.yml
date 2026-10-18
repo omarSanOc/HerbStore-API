@@ -1,0 +1,38 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    services:
+      postgres:
+        image: postgres:17-alpine
+        env:
+          POSTGRES_DB: herbstore_test
+          POSTGRES_USER: herbstore
+          POSTGRES_PASSWORD: herbstore
+        ports:
+          - 5432:5432
+        options: >-
+          --health-cmd "pg_isready -U herbstore -d herbstore_test"
+          --health-interval 5s
+          --health-timeout 5s
+          --health-retries 10
+    env:
+      DATABASE_URL: postgresql+psycopg://herbstore:herbstore@localhost:5432/herbstore_test
+      ORDER_PROCESSING_MS: 50
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v6
+        with:
+          enable-cache: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: uv sync --frozen
+      - run: uv run ruff check .
+      - run: uv run alembic upgrade head
+      - run: uv run pytest
