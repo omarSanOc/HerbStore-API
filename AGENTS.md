@@ -92,3 +92,4 @@ docker compose build
 - Usa `coordinator` para el flujo completo; `planner` solo escribe specs/planes/tareas, `implementer` ejecuta una tarea con tests primero y `reviewer` nunca modifica archivos.
 - Los comandos `/sdd`, `/sdd-spec`, `/sdd-plan`, `/sdd-tasks`, `/sdd-implement`, `/sdd-validate`, `/sdd-change` y `/sdd-status` aplican esas puertas de aprobación.
 - `/feature` queda reservado a documentación, configuración o refactors sin cambios de comportamiento, contrato o datos.
+- OpenCode usa `.opencode/`; Claude Code usa el equivalente en `.claude/` (ver `CLAUDE.md`). Ambos comparten la metodología `.agents/skills/sdd/SKILL.md`; al cambiar un agente o comando, actualiza las dos versiones.

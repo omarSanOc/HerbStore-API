@@ -10,6 +10,7 @@ Memoria del proyecto entre sesiones. Máximo ~50 líneas: resume o elimina lo qu
 - Dockerfile, Docker Compose, migración Alembic inicial y workflow CI configurados.
 - Constitución creada en `docs/constitution.md` con seis principios innegociables para futuras specs.
 - Agentes, comandos y skill SDD adaptados a FastAPI/Pytest/PostgreSQL y configurados para OpenCode V2.
+- SDD portado a Claude Code (2026-10-18): `CLAUDE.md` importa la constitución; `.claude/agents` (coordinator, planner, implementer, reviewer), 11 comandos en `.claude/skills`, guard `.claude/hooks/sdd_guard.py`.
 - Suite local: 18 tests pasan y 1 de concurrencia se omite en SQLite; CI pasó la suite completa con PostgreSQL 17.
 - Repositorio publicado en `omarSanOc/HerbStore-API`, rama `main`; incluye constitución y configuración SDD para OpenCode V2.
 
@@ -24,6 +25,7 @@ Memoria del proyecto entre sesiones. Máximo ~50 líneas: resume o elimina lo qu
 - Seed solo inserta IDs ausentes para no destruir stock ni operación existente al reiniciar.
 - La spec aprobada define el alcance: código, migraciones y tests deben trazarse a ella sin añadir comportamiento extra.
 - OpenCode carga siempre la constitución; `coordinator` aplica aprobaciones y delega en planner, implementer y reviewer.
+- Claude Code: los subagentes no pueden delegar ni entrevistar al usuario, así que `coordinator` corre como hilo principal (`claude --agent coordinator` o `/sdd`) y los comandos interactivos van inline; permisos por agente vía hook PreToolUse porque el frontmatter solo admite `tools`.
 
 ## Aprendizajes y errores a evitar
 
@@ -38,4 +40,5 @@ Memoria del proyecto entre sesiones. Máximo ~50 líneas: resume o elimina lo qu
 - Iniciar Docker Desktop y validar el arranque completo con `docker compose up --build` y health check.
 - Conectar la app móvil al backend y comprobar el flujo catálogo → detalle → carrito → checkout en Android/iOS.
 - Aprobar proveedor y costes antes de desplegar; Railway con PostgreSQL administrado es la recomendación inicial.
-- Hacer commit y push de `AGENTS.md` y `MEMORY.md` cuando el usuario lo solicite.
+- Hacer push a `origin/main` del commit con la configuración SDD para Claude Code cuando el usuario lo solicite.
+- Abrir una sesión nueva de Claude Code y comprobar `/agents`, los comandos `/sdd-*` y el bloqueo del hook en un subagente.
