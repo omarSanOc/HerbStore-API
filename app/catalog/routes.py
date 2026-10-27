@@ -3,13 +3,14 @@ import hashlib
 import math
 import re
 from datetime import UTC, datetime
+from pathlib import Path
 
 from fastapi import APIRouter, Depends, Request, Response
 from sqlalchemy import select
 from sqlalchemy.orm import Session
 
+from app.catalog.image_files import image_content
 from app.catalog.models import Product
-from app.catalog.png import placeholder_png
 from app.catalog.query import (
     is_valid_ean13,
     normalize_text,
@@ -305,6 +306,7 @@ async def product_detail(
 
 
 IMAGE_SIZES = {"banners": (640, 360), "categories": (128, 128), "products": (256, 256)}
+ASSET_ROOT = Path(__file__).parent / "assets"
 
 
 @router.get("/images/{kind}/{name}", summary="Fictional image / Imagen ficticia")
@@ -319,7 +321,7 @@ def image(kind: str, name: str, request: Request) -> Response:
         valid = match is not None and 1 <= int(match.group(1)) <= 300
     if kind not in IMAGE_SIZES or not valid:
         raise ApiError(404, "NOT_FOUND")
-    content = placeholder_png(*IMAGE_SIZES[kind], f"{kind}/{name}")
+    content = image_content(ASSET_ROOT / kind / name, IMAGE_SIZES[kind], f"{kind}/{name}")
     etag = f'"{hashlib.sha1(content).hexdigest()}"'
     headers = {
         "Cache-Control": "public, max-age=86400",

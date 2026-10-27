@@ -1,0 +1,1151 @@
+{
+  "version": 1,
+  "source": "Persistent API verified via GET /home, /categories, /products and 26 details on 2026-10-19",
+  "productCount": 26,
+  "assetCount": 59,
+  "assets": [
+    {
+      "kind": "products",
+      "url": "/images/products/product-218-front.png",
+      "file": "products/product-218-front.png",
+      "productId": "product-261009-218",
+      "brand": "Juniper Axis",
+      "name": "Everyday Whey Tablets",
+      "categoryId": "protein",
+      "description": "Everyday Whey in a tablets format for a simple daily wellness routine.",
+      "presentation": "Tablets",
+      "view": "front",
+      "reference": null,
+      "prompt": "Use case: product-mockup. Create one photorealistic fictional e-commerce catalog photograph, square 1024x1024 PNG. Subject: compact supplement bottle with a screw cap for Everyday Whey Tablets by fictional brand Juniper Axis. Presentation: tablets. Catalog description for context only: Everyday Whey in a tablets format for a simple daily wellness routine. Label text, exactly two fields and no other text: \"Juniper Axis\" and \"Everyday Whey Tablets\". Understated label in warm terracotta and cream, clean large typography, refined materials. Warm off-white seamless studio background, soft natural studio lighting, realistic soft contact shadow. The entire closed container stays inside the central 70% of the square, with generous clear margin on every edge. No real brands, logos, watermarks, badges, nutritional panels, dosages, quantities, certifications, slogans or health claims. No props, no extra containers, no collage. Front-facing camera at label height, straight verticals, crisp legible label.",
+      "status": "reviewed",
+      "sha256": "17127da2cf981cdc178da34b77de4cf42d821e6186cdd3095966fb70271e0bc1",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "kind": "products",
+      "url": "/images/products/product-218-detail.png",
+      "file": "products/product-218-detail.png",
+      "productId": "product-261009-218",
+      "brand": "Juniper Axis",
+      "name": "Everyday Whey Tablets",
+      "categoryId": "protein",
+      "description": "Everyday Whey in a tablets format for a simple daily wellness routine.",
+      "presentation": "Tablets",
+      "view": "detail",
+      "reference": "/images/products/product-218-front.png",
+      "prompt": "Use case: product-mockup. Create one photorealistic fictional e-commerce catalog photograph, square 1024x1024 PNG. Subject: compact supplement bottle with a screw cap for Everyday Whey Tablets by fictional brand Juniper Axis. Presentation: tablets. Catalog description for context only: Everyday Whey in a tablets format for a simple daily wellness routine. Label text, exactly two fields and no other text: \"Juniper Axis\" and \"Everyday Whey Tablets\". Understated label in warm terracotta and cream, clean large typography, refined materials. Warm off-white seamless studio background, soft natural studio lighting, realistic soft contact shadow. The entire closed container stays inside the central 70% of the square, with generous clear margin on every edge. No real brands, logos, watermarks, badges, nutritional panels, dosages, quantities, certifications, slogans or health claims. No props, no extra containers, no collage. Use the supplied frontal photograph as the mandatory identity reference. Preserve the exact same container, cap, label layout, brand, product name, colors and materials. Change only the camera to a subtle three-quarter angle and slightly closer framing; keep the full container and both text fields visible. Do not show a back label or invent information.",
+      "status": "reviewed",
+      "sha256": "da44ea3efae19b0531351c4baf31fcb79374343d20c6bc177f6e38402c7afc2b",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "kind": "products",
+      "url": "/images/products/product-226-front.png",
+      "file": "products/product-226-front.png",
+      "productId": "product-261009-226",
+      "brand": "Solstice Grove",
+      "name": "Daily Balance Powder",
+      "categoryId": "vitamins",
+      "description": "Daily Balance in a powder format for a simple daily wellness routine.",
+      "presentation": "Powder",
+      "view": "front",
+      "reference": null,
+      "prompt": "Use case: product-mockup. Create one photorealistic fictional e-commerce catalog photograph, square 1024x1024 PNG. Subject: wide cylindrical powder tub with a screw lid for Daily Balance Powder by fictional brand Solstice Grove. Presentation: powder. Catalog description for context only: Daily Balance in a powder format for a simple daily wellness routine. Label text, exactly two fields and no other text: \"Solstice Grove\" and \"Daily Balance Powder\". Understated label in muted amber and forest green, clean large typography, refined materials. Warm off-white seamless studio background, soft natural studio lighting, realistic soft contact shadow. The entire closed container stays inside the central 70% of the square, with generous clear margin on every edge. No real brands, logos, watermarks, badges, nutritional panels, dosages, quantities, certifications, slogans or health claims. No props, no extra containers, no collage. Front-facing camera at label height, straight verticals, crisp legible label.",
+      "status": "reviewed",
+      "sha256": "1093949b7816a5387ab52a7059b0b6633d364a978035aafbc2c71df055a4f77f",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "kind": "products",
+      "url": "/images/products/product-226-detail.png",
+      "file": "products/product-226-detail.png",
+      "productId": "product-261009-226",
+      "brand": "Solstice Grove",
+      "name": "Daily Balance Powder",
+      "categoryId": "vitamins",
+      "description": "Daily Balance in a powder format for a simple daily wellness routine.",
+      "presentation": "Powder",
+      "view": "detail",
+      "reference": "/images/products/product-226-front.png",
+      "prompt": "Use case: product-mockup. Create one photorealistic fictional e-commerce catalog photograph, square 1024x1024 PNG. Subject: wide cylindrical powder tub with a screw lid for Daily Balance Powder by fictional brand Solstice Grove. Presentation: powder. Catalog description for context only: Daily Balance in a powder format for a simple daily wellness routine. Label text, exactly two fields and no other text: \"Solstice Grove\" and \"Daily Balance Powder\". Understated label in muted amber and forest green, clean large typography, refined materials. Warm off-white seamless studio background, soft natural studio lighting, realistic soft contact shadow. The entire closed container stays inside the central 70% of the square, with generous clear margin on every edge. No real brands, logos, watermarks, badges, nutritional panels, dosages, quantities, certifications, slogans or health claims. No props, no extra containers, no collage. Use the supplied frontal photograph as the mandatory identity reference. Preserve the exact same container, cap, label layout, brand, product name, colors and materials. Change only the camera to a subtle three-quarter angle and slightly closer framing; keep the full container and both text fields visible. Do not show a back label or invent information.",
+      "status": "reviewed",
+      "sha256": "a8f52fda036b28da04c7191d703417d8bf66f9d64b0589a95d309b2fcfc578b4",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "kind": "products",
+      "url": "/images/products/product-100-front.png",
+      "file": "products/product-100-front.png",
+      "productId": "product-261009-100",
+      "brand": "MossPeak Formulas",
+      "name": "Algae Omega Capsules",
+      "categoryId": "wellness",
+      "description": "Algae Omega in a capsules format for a simple daily wellness routine.",
+      "presentation": "Capsules",
+      "view": "front",
+      "reference": null,
+      "prompt": "Use case: product-mockup. Create one photorealistic fictional e-commerce catalog photograph, square 1024x1024 PNG. Subject: compact supplement bottle with a screw cap for Algae Omega Capsules by fictional brand MossPeak Formulas. Presentation: capsules. Catalog description for context only: Algae Omega in a capsules format for a simple daily wellness routine. Label text, exactly two fields and no other text: \"MossPeak Formulas\" and \"Algae Omega Capsules\". Understated label in muted teal and cream, clean large typography, refined materials. Warm off-white seamless studio background, soft natural studio lighting, realistic soft contact shadow. The entire closed container stays inside the central 70% of the square, with generous clear margin on every edge. No real brands, logos, watermarks, badges, nutritional panels, dosages, quantities, certifications, slogans or health claims. No props, no extra containers, no collage. Front-facing camera at label height, straight verticals, crisp legible label.",
+      "status": "reviewed",
+      "sha256": "07998b18e7124ef4b2477ee9fe7bb192ae868634cd2b57ac648fa1e7c41988d1",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "kind": "products",
+      "url": "/images/products/product-100-detail.png",
+      "file": "products/product-100-detail.png",
+      "productId": "product-261009-100",
+      "brand": "MossPeak Formulas",
+      "name": "Algae Omega Capsules",
+      "categoryId": "wellness",
+      "description": "Algae Omega in a capsules format for a simple daily wellness routine.",
+      "presentation": "Capsules",
+      "view": "detail",
+      "reference": "/images/products/product-100-front.png",
+      "prompt": "Use case: product-mockup. Create one photorealistic fictional e-commerce catalog photograph, square 1024x1024 PNG. Subject: compact supplement bottle with a screw cap for Algae Omega Capsules by fictional brand MossPeak Formulas. Presentation: capsules. Catalog description for context only: Algae Omega in a capsules format for a simple daily wellness routine. Label text, exactly two fields and no other text: \"MossPeak Formulas\" and \"Algae Omega Capsules\". Understated label in muted teal and cream, clean large typography, refined materials. Warm off-white seamless studio background, soft natural studio lighting, realistic soft contact shadow. The entire closed container stays inside the central 70% of the square, with generous clear margin on every edge. No real brands, logos, watermarks, badges, nutritional panels, dosages, quantities, certifications, slogans or health claims. No props, no extra containers, no collage. Use the supplied frontal photograph as the mandatory identity reference. Preserve the exact same container, cap, label layout, brand, product name, colors and materials. Change only the camera to a subtle three-quarter angle and slightly closer framing; keep the full container and both text fields visible. Do not show a back label or invent information.",
+      "status": "reviewed",
+      "sha256": "59cb7651f778da2a632c2dd6ac43e7d3f07c4631f3d98c93be5e0b95963dceb5",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "kind": "products",
+      "url": "/images/products/product-008-front.png",
+      "file": "products/product-008-front.png",
+      "productId": "product-261009-008",
+      "brand": "MossPeak Formulas",
+      "name": "Everyday Whey Softgels",
+      "categoryId": "protein",
+      "description": "Everyday Whey in a softgels format for a simple daily wellness routine.",
+      "presentation": "Softgels",
+      "view": "front",
+      "reference": null,
+      "prompt": "Use case: product-mockup. Create one photorealistic fictional e-commerce catalog photograph, square 1024x1024 PNG. Subject: compact supplement bottle with a screw cap for Everyday Whey Softgels by fictional brand MossPeak Formulas. Presentation: softgels. Catalog description for context only: Everyday Whey in a softgels format for a simple daily wellness routine. Label text, exactly two fields and no other text: \"MossPeak Formulas\" and \"Everyday Whey Softgels\". Understated label in warm terracotta and cream, clean large typography, refined materials. Warm off-white seamless studio background, soft natural studio lighting, realistic soft contact shadow. The entire closed container stays inside the central 70% of the square, with generous clear margin on every edge. No real brands, logos, watermarks, badges, nutritional panels, dosages, quantities, certifications, slogans or health claims. No props, no extra containers, no collage. Front-facing camera at label height, straight verticals, crisp legible label.",
+      "status": "reviewed",
+      "sha256": "ff951b16b619bf989aa7a7f6b9cad7084592905adbbc2037be6eb6ceee7dbdb4",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "kind": "products",
+      "url": "/images/products/product-008-detail.png",
+      "file": "products/product-008-detail.png",
+      "productId": "product-261009-008",
+      "brand": "MossPeak Formulas",
+      "name": "Everyday Whey Softgels",
+      "categoryId": "protein",
+      "description": "Everyday Whey in a softgels format for a simple daily wellness routine.",
+      "presentation": "Softgels",
+      "view": "detail",
+      "reference": "/images/products/product-008-front.png",
+      "prompt": "Use case: product-mockup. Create one photorealistic fictional e-commerce catalog photograph, square 1024x1024 PNG. Subject: compact supplement bottle with a screw cap for Everyday Whey Softgels by fictional brand MossPeak Formulas. Presentation: softgels. Catalog description for context only: Everyday Whey in a softgels format for a simple daily wellness routine. Label text, exactly two fields and no other text: \"MossPeak Formulas\" and \"Everyday Whey Softgels\". Understated label in warm terracotta and cream, clean large typography, refined materials. Warm off-white seamless studio background, soft natural studio lighting, realistic soft contact shadow. The entire closed container stays inside the central 70% of the square, with generous clear margin on every edge. No real brands, logos, watermarks, badges, nutritional panels, dosages, quantities, certifications, slogans or health claims. No props, no extra containers, no collage. Use the supplied frontal photograph as the mandatory identity reference. Preserve the exact same container, cap, label layout, brand, product name, colors and materials. Change only the camera to a subtle three-quarter angle and slightly closer framing; keep the full container and both text fields visible. Do not show a back label or invent information.",
+      "status": "reviewed",
+      "sha256": "81487c020973a2a35868e247f2ffdd924d6c180216b0bbfd057bc5985c5c75eb",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "kind": "products",
+      "url": "/images/products/product-089-front.png",
+      "file": "products/product-089-front.png",
+      "productId": "product-261009-089",
+      "brand": "HerbStore Essentials",
+      "name": "Root Blend Capsules",
+      "categoryId": "botanicals",
+      "description": "Root Blend in a capsules format for a simple daily wellness routine.",
+      "presentation": "Capsules",
+      "view": "front",
+      "reference": null,
+      "prompt": "Use case: product-mockup. Create one photorealistic fictional e-commerce catalog photograph, square 1024x1024 PNG. Subject: compact supplement bottle with a screw cap for Root Blend Capsules by fictional brand HerbStore Essentials. Presentation: capsules. Catalog description for context only: Root Blend in a capsules format for a simple daily wellness routine. Label text, exactly two fields and no other text: \"HerbStore Essentials\" and \"Root Blend Capsules\". Understated label in deep botanical green and warm ivory, clean large typography, refined materials. Warm off-white seamless studio background, soft natural studio lighting, realistic soft contact shadow. The entire closed container stays inside the central 70% of the square, with generous clear margin on every edge. No real brands, logos, watermarks, badges, nutritional panels, dosages, quantities, certifications, slogans or health claims. No props, no extra containers, no collage. Front-facing camera at label height, straight verticals, crisp legible label.",
+      "status": "reviewed",
+      "sha256": "033da3b2ea74aa5794f34a10c3addb055046791879af562d6e07003860f3c0c4",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "kind": "products",
+      "url": "/images/products/product-089-detail.png",
+      "file": "products/product-089-detail.png",
+      "productId": "product-261009-089",
+      "brand": "HerbStore Essentials",
+      "name": "Root Blend Capsules",
+      "categoryId": "botanicals",
+      "description": "Root Blend in a capsules format for a simple daily wellness routine.",
+      "presentation": "Capsules",
+      "view": "detail",
+      "reference": "/images/products/product-089-front.png",
+      "prompt": "Use case: product-mockup. Create one photorealistic fictional e-commerce catalog photograph, square 1024x1024 PNG. Subject: compact supplement bottle with a screw cap for Root Blend Capsules by fictional brand HerbStore Essentials. Presentation: capsules. Catalog description for context only: Root Blend in a capsules format for a simple daily wellness routine. Label text, exactly two fields and no other text: \"HerbStore Essentials\" and \"Root Blend Capsules\". Understated label in deep botanical green and warm ivory, clean large typography, refined materials. Warm off-white seamless studio background, soft natural studio lighting, realistic soft contact shadow. The entire closed container stays inside the central 70% of the square, with generous clear margin on every edge. No real brands, logos, watermarks, badges, nutritional panels, dosages, quantities, certifications, slogans or health claims. No props, no extra containers, no collage. Use the supplied frontal photograph as the mandatory identity reference. Preserve the exact same container, cap, label layout, brand, product name, colors and materials. Change only the camera to a subtle three-quarter angle and slightly closer framing; keep the full container and both text fields visible. Do not show a back label or invent information.",
+      "status": "reviewed",
+      "sha256": "d762fee83de8fa26045f5db94783324a716583366069e35fb9185ecf31504654",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "kind": "products",
+      "url": "/images/products/product-258-front.png",
+      "file": "products/product-258-front.png",
+      "productId": "product-261009-258",
+      "brand": "Juniper Axis",
+      "name": "Pea Protein Powder",
+      "categoryId": "protein",
+      "description": "Pea Protein in a powder format for a simple daily wellness routine.",
+      "presentation": "Powder",
+      "view": "front",
+      "reference": null,
+      "prompt": "Use case: product-mockup. Create one photorealistic fictional e-commerce catalog photograph, square 1024x1024 PNG. Subject: wide cylindrical powder tub with a screw lid for Pea Protein Powder by fictional brand Juniper Axis. Presentation: powder. Catalog description for context only: Pea Protein in a powder format for a simple daily wellness routine. Label text, exactly two fields and no other text: \"Juniper Axis\" and \"Pea Protein Powder\". Understated label in warm terracotta and cream, clean large typography, refined materials. Warm off-white seamless studio background, soft natural studio lighting, realistic soft contact shadow. The entire closed container stays inside the central 70% of the square, with generous clear margin on every edge. No real brands, logos, watermarks, badges, nutritional panels, dosages, quantities, certifications, slogans or health claims. No props, no extra containers, no collage. Front-facing camera at label height, straight verticals, crisp legible label.",
+      "status": "reviewed",
+      "sha256": "5b3d12a95f169cc8c00271bfc15ace495820f13eb3be39af75032152709c0230",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "kind": "products",
+      "url": "/images/products/product-258-detail.png",
+      "file": "products/product-258-detail.png",
+      "productId": "product-261009-258",
+      "brand": "Juniper Axis",
+      "name": "Pea Protein Powder",
+      "categoryId": "protein",
+      "description": "Pea Protein in a powder format for a simple daily wellness routine.",
+      "presentation": "Powder",
+      "view": "detail",
+      "reference": "/images/products/product-258-front.png",
+      "prompt": "Use case: product-mockup. Create one photorealistic fictional e-commerce catalog photograph, square 1024x1024 PNG. Subject: wide cylindrical powder tub with a screw lid for Pea Protein Powder by fictional brand Juniper Axis. Presentation: powder. Catalog description for context only: Pea Protein in a powder format for a simple daily wellness routine. Label text, exactly two fields and no other text: \"Juniper Axis\" and \"Pea Protein Powder\". Understated label in warm terracotta and cream, clean large typography, refined materials. Warm off-white seamless studio background, soft natural studio lighting, realistic soft contact shadow. The entire closed container stays inside the central 70% of the square, with generous clear margin on every edge. No real brands, logos, watermarks, badges, nutritional panels, dosages, quantities, certifications, slogans or health claims. No props, no extra containers, no collage. Use the supplied frontal photograph as the mandatory identity reference. Preserve the exact same container, cap, label layout, brand, product name, colors and materials. Change only the camera to a subtle three-quarter angle and slightly closer framing; keep the full container and both text fields visible. Do not show a back label or invent information.",
+      "status": "reviewed",
+      "sha256": "9ca9b22d75413e7067770cfc3cb97d0ac19d1643cd5f6bb1db139247d0e53135",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "kind": "products",
+      "url": "/images/products/product-221-front.png",
+      "file": "products/product-221-front.png",
+      "productId": "product-261009-221",
+      "brand": "Verdant Forge",
+      "name": "Daily D Tablets",
+      "categoryId": "vitamins",
+      "description": "Daily D in a tablets format for a simple daily wellness routine.",
+      "presentation": "Tablets",
+      "view": "front",
+      "reference": null,
+      "prompt": "Use case: product-mockup. Create one photorealistic fictional e-commerce catalog photograph, square 1024x1024 PNG. Subject: compact supplement bottle with a screw cap for Daily D Tablets by fictional brand Verdant Forge. Presentation: tablets. Catalog description for context only: Daily D in a tablets format for a simple daily wellness routine. Label text, exactly two fields and no other text: \"Verdant Forge\" and \"Daily D Tablets\". Understated label in muted amber and forest green, clean large typography, refined materials. Warm off-white seamless studio background, soft natural studio lighting, realistic soft contact shadow. The entire closed container stays inside the central 70% of the square, with generous clear margin on every edge. No real brands, logos, watermarks, badges, nutritional panels, dosages, quantities, certifications, slogans or health claims. No props, no extra containers, no collage. Front-facing camera at label height, straight verticals, crisp legible label.",
+      "status": "reviewed",
+      "sha256": "b6e98f666603323551f2404b4f03f754aa4bbb8c87fdc4134111c2fa21c5eaf6",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "kind": "products",
+      "url": "/images/products/product-221-detail.png",
+      "file": "products/product-221-detail.png",
+      "productId": "product-261009-221",
+      "brand": "Verdant Forge",
+      "name": "Daily D Tablets",
+      "categoryId": "vitamins",
+      "description": "Daily D in a tablets format for a simple daily wellness routine.",
+      "presentation": "Tablets",
+      "view": "detail",
+      "reference": "/images/products/product-221-front.png",
+      "prompt": "Use case: product-mockup. Create one photorealistic fictional e-commerce catalog photograph, square 1024x1024 PNG. Subject: compact supplement bottle with a screw cap for Daily D Tablets by fictional brand Verdant Forge. Presentation: tablets. Catalog description for context only: Daily D in a tablets format for a simple daily wellness routine. Label text, exactly two fields and no other text: \"Verdant Forge\" and \"Daily D Tablets\". Understated label in muted amber and forest green, clean large typography, refined materials. Warm off-white seamless studio background, soft natural studio lighting, realistic soft contact shadow. The entire closed container stays inside the central 70% of the square, with generous clear margin on every edge. No real brands, logos, watermarks, badges, nutritional panels, dosages, quantities, certifications, slogans or health claims. No props, no extra containers, no collage. Use the supplied frontal photograph as the mandatory identity reference. Preserve the exact same container, cap, label layout, brand, product name, colors and materials. Change only the camera to a subtle three-quarter angle and slightly closer framing; keep the full container and both text fields visible. Do not show a back label or invent information.",
+      "status": "reviewed",
+      "sha256": "51baa6de24de8fe3bd43d1f3a72357340a0c4b0c3fe3e7b308d4d961969e3473",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "kind": "products",
+      "url": "/images/products/product-036-front.png",
+      "file": "products/product-036-front.png",
+      "productId": "product-261009-036",
+      "brand": "Juniper Axis",
+      "name": "Acerola C Powder",
+      "categoryId": "vitamins",
+      "description": "Acerola C in a powder format for a simple daily wellness routine.",
+      "presentation": "Powder",
+      "view": "front",
+      "reference": null,
+      "prompt": "Use case: product-mockup. Create one photorealistic fictional e-commerce catalog photograph, square 1024x1024 PNG. Subject: wide cylindrical powder tub with a screw lid for Acerola C Powder by fictional brand Juniper Axis. Presentation: powder. Catalog description for context only: Acerola C in a powder format for a simple daily wellness routine. Label text, exactly two fields and no other text: \"Juniper Axis\" and \"Acerola C Powder\". Understated label in muted amber and forest green, clean large typography, refined materials. Warm off-white seamless studio background, soft natural studio lighting, realistic soft contact shadow. The entire closed container stays inside the central 70% of the square, with generous clear margin on every edge. No real brands, logos, watermarks, badges, nutritional panels, dosages, quantities, certifications, slogans or health claims. No props, no extra containers, no collage. Front-facing camera at label height, straight verticals, crisp legible label.",
+      "status": "reviewed",
+      "sha256": "8b8e4b3493e4720899f7c4f2c09791bfd08f3aa39ead2c1d986ef3d8058dca57",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "kind": "products",
+      "url": "/images/products/product-036-detail.png",
+      "file": "products/product-036-detail.png",
+      "productId": "product-261009-036",
+      "brand": "Juniper Axis",
+      "name": "Acerola C Powder",
+      "categoryId": "vitamins",
+      "description": "Acerola C in a powder format for a simple daily wellness routine.",
+      "presentation": "Powder",
+      "view": "detail",
+      "reference": "/images/products/product-036-front.png",
+      "prompt": "Use case: product-mockup. Create one photorealistic fictional e-commerce catalog photograph, square 1024x1024 PNG. Subject: wide cylindrical powder tub with a screw lid for Acerola C Powder by fictional brand Juniper Axis. Presentation: powder. Catalog description for context only: Acerola C in a powder format for a simple daily wellness routine. Label text, exactly two fields and no other text: \"Juniper Axis\" and \"Acerola C Powder\". Understated label in muted amber and forest green, clean large typography, refined materials. Warm off-white seamless studio background, soft natural studio lighting, realistic soft contact shadow. The entire closed container stays inside the central 70% of the square, with generous clear margin on every edge. No real brands, logos, watermarks, badges, nutritional panels, dosages, quantities, certifications, slogans or health claims. No props, no extra containers, no collage. Use the supplied frontal photograph as the mandatory identity reference. Preserve the exact same container, cap, label layout, brand, product name, colors and materials. Change only the camera to a subtle three-quarter angle and slightly closer framing; keep the full container and both text fields visible. Do not show a back label or invent information.",
+      "status": "reviewed",
+      "sha256": "061e1325551e99d7e67b4c9b155ddcee0b8d3cb0c63f3a64043fc379b365d444",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "kind": "products",
+      "url": "/images/products/product-027-front.png",
+      "file": "products/product-027-front.png",
+      "productId": "product-261009-027",
+      "brand": "MossPeak Formulas",
+      "name": "Mineral Calcium Softgels",
+      "categoryId": "minerals",
+      "description": "Mineral Calcium in a softgels format for a simple daily wellness routine.",
+      "presentation": "Softgels",
+      "view": "front",
+      "reference": null,
+      "prompt": "Use case: product-mockup. Create one photorealistic fictional e-commerce catalog photograph, square 1024x1024 PNG. Subject: compact supplement bottle with a screw cap for Mineral Calcium Softgels by fictional brand MossPeak Formulas. Presentation: softgels. Catalog description for context only: Mineral Calcium in a softgels format for a simple daily wellness routine. Label text, exactly two fields and no other text: \"MossPeak Formulas\" and \"Mineral Calcium Softgels\". Understated label in slate blue and sage, clean large typography, refined materials. Warm off-white seamless studio background, soft natural studio lighting, realistic soft contact shadow. The entire closed container stays inside the central 70% of the square, with generous clear margin on every edge. No real brands, logos, watermarks, badges, nutritional panels, dosages, quantities, certifications, slogans or health claims. No props, no extra containers, no collage. Front-facing camera at label height, straight verticals, crisp legible label.",
+      "status": "reviewed",
+      "sha256": "d7f9aa969af9c46783a7f76b8507c36320380662b6fc4559f90db6e68fb989b6",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "kind": "products",
+      "url": "/images/products/product-027-detail.png",
+      "file": "products/product-027-detail.png",
+      "productId": "product-261009-027",
+      "brand": "MossPeak Formulas",
+      "name": "Mineral Calcium Softgels",
+      "categoryId": "minerals",
+      "description": "Mineral Calcium in a softgels format for a simple daily wellness routine.",
+      "presentation": "Softgels",
+      "view": "detail",
+      "reference": "/images/products/product-027-front.png",
+      "prompt": "Use case: product-mockup. Create one photorealistic fictional e-commerce catalog photograph, square 1024x1024 PNG. Subject: compact supplement bottle with a screw cap for Mineral Calcium Softgels by fictional brand MossPeak Formulas. Presentation: softgels. Catalog description for context only: Mineral Calcium in a softgels format for a simple daily wellness routine. Label text, exactly two fields and no other text: \"MossPeak Formulas\" and \"Mineral Calcium Softgels\". Understated label in slate blue and sage, clean large typography, refined materials. Warm off-white seamless studio background, soft natural studio lighting, realistic soft contact shadow. The entire closed container stays inside the central 70% of the square, with generous clear margin on every edge. No real brands, logos, watermarks, badges, nutritional panels, dosages, quantities, certifications, slogans or health claims. No props, no extra containers, no collage. Use the supplied frontal photograph as the mandatory identity reference. Preserve the exact same container, cap, label layout, brand, product name, colors and materials. Change only the camera to a subtle three-quarter angle and slightly closer framing; keep the full container and both text fields visible. Do not show a back label or invent information.",
+      "status": "reviewed",
+      "sha256": "d8b46e086a2a91c002fdf3c58b723b0c9f7794728909299a32ea02bafe7d7bc0",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "kind": "products",
+      "url": "/images/products/product-240-front.png",
+      "file": "products/product-240-front.png",
+      "productId": "product-261009-240",
+      "brand": "Juniper Axis",
+      "name": "Rest Formula Powder",
+      "categoryId": "wellness",
+      "description": "Rest Formula in a powder format for a simple daily wellness routine.",
+      "presentation": "Powder",
+      "view": "front",
+      "reference": null,
+      "prompt": "Use case: product-mockup. Create one photorealistic fictional e-commerce catalog photograph, square 1024x1024 PNG. Subject: wide cylindrical powder tub with a screw lid for Rest Formula Powder by fictional brand Juniper Axis. Presentation: powder. Catalog description for context only: Rest Formula in a powder format for a simple daily wellness routine. Label text, exactly two fields and no other text: \"Juniper Axis\" and \"Rest Formula Powder\". Understated label in muted teal and cream, clean large typography, refined materials. Warm off-white seamless studio background, soft natural studio lighting, realistic soft contact shadow. The entire closed container stays inside the central 70% of the square, with generous clear margin on every edge. No real brands, logos, watermarks, badges, nutritional panels, dosages, quantities, certifications, slogans or health claims. No props, no extra containers, no collage. Front-facing camera at label height, straight verticals, crisp legible label.",
+      "status": "reviewed",
+      "sha256": "f70acb812e666cc02926fbab5efda86510d77bb90405121b606906243042383d",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "kind": "products",
+      "url": "/images/products/product-240-detail.png",
+      "file": "products/product-240-detail.png",
+      "productId": "product-261009-240",
+      "brand": "Juniper Axis",
+      "name": "Rest Formula Powder",
+      "categoryId": "wellness",
+      "description": "Rest Formula in a powder format for a simple daily wellness routine.",
+      "presentation": "Powder",
+      "view": "detail",
+      "reference": "/images/products/product-240-front.png",
+      "prompt": "Use case: product-mockup. Create one photorealistic fictional e-commerce catalog photograph, square 1024x1024 PNG. Subject: wide cylindrical powder tub with a screw lid for Rest Formula Powder by fictional brand Juniper Axis. Presentation: powder. Catalog description for context only: Rest Formula in a powder format for a simple daily wellness routine. Label text, exactly two fields and no other text: \"Juniper Axis\" and \"Rest Formula Powder\". Understated label in muted teal and cream, clean large typography, refined materials. Warm off-white seamless studio background, soft natural studio lighting, realistic soft contact shadow. The entire closed container stays inside the central 70% of the square, with generous clear margin on every edge. No real brands, logos, watermarks, badges, nutritional panels, dosages, quantities, certifications, slogans or health claims. No props, no extra containers, no collage. Use the supplied frontal photograph as the mandatory identity reference. Preserve the exact same container, cap, label layout, brand, product name, colors and materials. Change only the camera to a subtle three-quarter angle and slightly closer framing; keep the full container and both text fields visible. Do not show a back label or invent information.",
+      "status": "reviewed",
+      "sha256": "fb302fe389eed05d404927be9284ba2115e1800ed94e481fc680d5b596f0d86b",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "kind": "products",
+      "url": "/images/products/product-001-front.png",
+      "file": "products/product-001-front.png",
+      "productId": "product-261009-001",
+      "brand": "AsterVale Nutrition",
+      "name": "Complete Daily Powder",
+      "categoryId": "vitamins",
+      "description": "Complete Daily in a powder format for a simple daily wellness routine.",
+      "presentation": "Powder",
+      "view": "front",
+      "reference": null,
+      "prompt": "Use case: product-mockup. Create one photorealistic fictional e-commerce catalog photograph, square 1024x1024 PNG. Subject: wide cylindrical powder tub with a screw lid for Complete Daily Powder by fictional brand AsterVale Nutrition. Presentation: powder. Catalog description for context only: Complete Daily in a powder format for a simple daily wellness routine. Label text, exactly two fields and no other text: \"AsterVale Nutrition\" and \"Complete Daily Powder\". Understated label in muted amber and forest green, clean large typography, refined materials. Warm off-white seamless studio background, soft natural studio lighting, realistic soft contact shadow. The entire closed container stays inside the central 70% of the square, with generous clear margin on every edge. No real brands, logos, watermarks, badges, nutritional panels, dosages, quantities, certifications, slogans or health claims. No props, no extra containers, no collage. Front-facing camera at label height, straight verticals, crisp legible label.",
+      "status": "reviewed",
+      "sha256": "bf845c0e992992626960a2f05385b568a2bc2701be874c46b1d4864978ed6812",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "kind": "products",
+      "url": "/images/products/product-001-detail.png",
+      "file": "products/product-001-detail.png",
+      "productId": "product-261009-001",
+      "brand": "AsterVale Nutrition",
+      "name": "Complete Daily Powder",
+      "categoryId": "vitamins",
+      "description": "Complete Daily in a powder format for a simple daily wellness routine.",
+      "presentation": "Powder",
+      "view": "detail",
+      "reference": "/images/products/product-001-front.png",
+      "prompt": "Use case: product-mockup. Create one photorealistic fictional e-commerce catalog photograph, square 1024x1024 PNG. Subject: wide cylindrical powder tub with a screw lid for Complete Daily Powder by fictional brand AsterVale Nutrition. Presentation: powder. Catalog description for context only: Complete Daily in a powder format for a simple daily wellness routine. Label text, exactly two fields and no other text: \"AsterVale Nutrition\" and \"Complete Daily Powder\". Understated label in muted amber and forest green, clean large typography, refined materials. Warm off-white seamless studio background, soft natural studio lighting, realistic soft contact shadow. The entire closed container stays inside the central 70% of the square, with generous clear margin on every edge. No real brands, logos, watermarks, badges, nutritional panels, dosages, quantities, certifications, slogans or health claims. No props, no extra containers, no collage. Use the supplied frontal photograph as the mandatory identity reference. Preserve the exact same container, cap, label layout, brand, product name, colors and materials. Change only the camera to a subtle three-quarter angle and slightly closer framing; keep the full container and both text fields visible. Do not show a back label or invent information.",
+      "status": "reviewed",
+      "sha256": "eae72304ed9d62c18ddca8f1a6336bf41e7fb13533cb99daf65c05919897a56c",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "kind": "products",
+      "url": "/images/products/product-012-front.png",
+      "file": "products/product-012-front.png",
+      "productId": "product-261009-012",
+      "brand": "Solstice Grove",
+      "name": "Calcium Balance Tablets",
+      "categoryId": "minerals",
+      "description": "Calcium Balance in a tablets format for a simple daily wellness routine.",
+      "presentation": "Tablets",
+      "view": "front",
+      "reference": null,
+      "prompt": "Use case: product-mockup. Create one photorealistic fictional e-commerce catalog photograph, square 1024x1024 PNG. Subject: compact supplement bottle with a screw cap for Calcium Balance Tablets by fictional brand Solstice Grove. Presentation: tablets. Catalog description for context only: Calcium Balance in a tablets format for a simple daily wellness routine. Label text, exactly two fields and no other text: \"Solstice Grove\" and \"Calcium Balance Tablets\". Understated label in slate blue and sage, clean large typography, refined materials. Warm off-white seamless studio background, soft natural studio lighting, realistic soft contact shadow. The entire closed container stays inside the central 70% of the square, with generous clear margin on every edge. No real brands, logos, watermarks, badges, nutritional panels, dosages, quantities, certifications, slogans or health claims. No props, no extra containers, no collage. Front-facing camera at label height, straight verticals, crisp legible label.",
+      "status": "reviewed",
+      "sha256": "65c603a51c06f91d7711ca443040443aa732ccad213c18a231fec5b678e7edb1",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "kind": "products",
+      "url": "/images/products/product-012-detail.png",
+      "file": "products/product-012-detail.png",
+      "productId": "product-261009-012",
+      "brand": "Solstice Grove",
+      "name": "Calcium Balance Tablets",
+      "categoryId": "minerals",
+      "description": "Calcium Balance in a tablets format for a simple daily wellness routine.",
+      "presentation": "Tablets",
+      "view": "detail",
+      "reference": "/images/products/product-012-front.png",
+      "prompt": "Use case: product-mockup. Create one photorealistic fictional e-commerce catalog photograph, square 1024x1024 PNG. Subject: compact supplement bottle with a screw cap for Calcium Balance Tablets by fictional brand Solstice Grove. Presentation: tablets. Catalog description for context only: Calcium Balance in a tablets format for a simple daily wellness routine. Label text, exactly two fields and no other text: \"Solstice Grove\" and \"Calcium Balance Tablets\". Understated label in slate blue and sage, clean large typography, refined materials. Warm off-white seamless studio background, soft natural studio lighting, realistic soft contact shadow. The entire closed container stays inside the central 70% of the square, with generous clear margin on every edge. No real brands, logos, watermarks, badges, nutritional panels, dosages, quantities, certifications, slogans or health claims. No props, no extra containers, no collage. Use the supplied frontal photograph as the mandatory identity reference. Preserve the exact same container, cap, label layout, brand, product name, colors and materials. Change only the camera to a subtle three-quarter angle and slightly closer framing; keep the full container and both text fields visible. Do not show a back label or invent information.",
+      "status": "reviewed",
+      "sha256": "bc4e4b0f12b387f9ed9b29d4c6e798773676c873b9a9039928200c7df8fe3e96",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "kind": "products",
+      "url": "/images/products/product-023-front.png",
+      "file": "products/product-023-front.png",
+      "productId": "product-261009-023",
+      "brand": "Solstice Grove",
+      "name": "Whey Isolate Tablets",
+      "categoryId": "protein",
+      "description": "Whey Isolate in a tablets format for a simple daily wellness routine.",
+      "presentation": "Tablets",
+      "view": "front",
+      "reference": null,
+      "prompt": "Use case: product-mockup. Create one photorealistic fictional e-commerce catalog photograph, square 1024x1024 PNG. Subject: compact supplement bottle with a screw cap for Whey Isolate Tablets by fictional brand Solstice Grove. Presentation: tablets. Catalog description for context only: Whey Isolate in a tablets format for a simple daily wellness routine. Label text, exactly two fields and no other text: \"Solstice Grove\" and \"Whey Isolate Tablets\". Understated label in warm terracotta and cream, clean large typography, refined materials. Warm off-white seamless studio background, soft natural studio lighting, realistic soft contact shadow. The entire closed container stays inside the central 70% of the square, with generous clear margin on every edge. No real brands, logos, watermarks, badges, nutritional panels, dosages, quantities, certifications, slogans or health claims. No props, no extra containers, no collage. Front-facing camera at label height, straight verticals, crisp legible label.",
+      "status": "reviewed",
+      "sha256": "57b3492b8e1b11c1f04b656d4c0c08d68db054d33327385d1998a084f01a4a18",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "kind": "products",
+      "url": "/images/products/product-023-detail.png",
+      "file": "products/product-023-detail.png",
+      "productId": "product-261009-023",
+      "brand": "Solstice Grove",
+      "name": "Whey Isolate Tablets",
+      "categoryId": "protein",
+      "description": "Whey Isolate in a tablets format for a simple daily wellness routine.",
+      "presentation": "Tablets",
+      "view": "detail",
+      "reference": "/images/products/product-023-front.png",
+      "prompt": "Use case: product-mockup. Create one photorealistic fictional e-commerce catalog photograph, square 1024x1024 PNG. Subject: compact supplement bottle with a screw cap for Whey Isolate Tablets by fictional brand Solstice Grove. Presentation: tablets. Catalog description for context only: Whey Isolate in a tablets format for a simple daily wellness routine. Label text, exactly two fields and no other text: \"Solstice Grove\" and \"Whey Isolate Tablets\". Understated label in warm terracotta and cream, clean large typography, refined materials. Warm off-white seamless studio background, soft natural studio lighting, realistic soft contact shadow. The entire closed container stays inside the central 70% of the square, with generous clear margin on every edge. No real brands, logos, watermarks, badges, nutritional panels, dosages, quantities, certifications, slogans or health claims. No props, no extra containers, no collage. Use the supplied frontal photograph as the mandatory identity reference. Preserve the exact same container, cap, label layout, brand, product name, colors and materials. Change only the camera to a subtle three-quarter angle and slightly closer framing; keep the full container and both text fields visible. Do not show a back label or invent information.",
+      "status": "reviewed",
+      "sha256": "48180191860cf4d5ed73b51d407543ea8b52f196dcbf294862e5fdfc887284a5",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "kind": "products",
+      "url": "/images/products/product-034-front.png",
+      "file": "products/product-034-front.png",
+      "productId": "product-261009-034",
+      "brand": "Juniper Axis",
+      "name": "Meadow Blend Tablets",
+      "categoryId": "botanicals",
+      "description": "Meadow Blend in a tablets format for a simple daily wellness routine.",
+      "presentation": "Tablets",
+      "view": "front",
+      "reference": null,
+      "prompt": "Use case: product-mockup. Create one photorealistic fictional e-commerce catalog photograph, square 1024x1024 PNG. Subject: compact supplement bottle with a screw cap for Meadow Blend Tablets by fictional brand Juniper Axis. Presentation: tablets. Catalog description for context only: Meadow Blend in a tablets format for a simple daily wellness routine. Label text, exactly two fields and no other text: \"Juniper Axis\" and \"Meadow Blend Tablets\". Understated label in deep botanical green and warm ivory, clean large typography, refined materials. Warm off-white seamless studio background, soft natural studio lighting, realistic soft contact shadow. The entire closed container stays inside the central 70% of the square, with generous clear margin on every edge. No real brands, logos, watermarks, badges, nutritional panels, dosages, quantities, certifications, slogans or health claims. No props, no extra containers, no collage. Front-facing camera at label height, straight verticals, crisp legible label.",
+      "status": "reviewed",
+      "sha256": "32723fde039a8bbef38837c829c5c12dc356887c933534a7d2adc8edc960cc1d",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "kind": "products",
+      "url": "/images/products/product-034-detail.png",
+      "file": "products/product-034-detail.png",
+      "productId": "product-261009-034",
+      "brand": "Juniper Axis",
+      "name": "Meadow Blend Tablets",
+      "categoryId": "botanicals",
+      "description": "Meadow Blend in a tablets format for a simple daily wellness routine.",
+      "presentation": "Tablets",
+      "view": "detail",
+      "reference": "/images/products/product-034-front.png",
+      "prompt": "Use case: product-mockup. Create one photorealistic fictional e-commerce catalog photograph, square 1024x1024 PNG. Subject: compact supplement bottle with a screw cap for Meadow Blend Tablets by fictional brand Juniper Axis. Presentation: tablets. Catalog description for context only: Meadow Blend in a tablets format for a simple daily wellness routine. Label text, exactly two fields and no other text: \"Juniper Axis\" and \"Meadow Blend Tablets\". Understated label in deep botanical green and warm ivory, clean large typography, refined materials. Warm off-white seamless studio background, soft natural studio lighting, realistic soft contact shadow. The entire closed container stays inside the central 70% of the square, with generous clear margin on every edge. No real brands, logos, watermarks, badges, nutritional panels, dosages, quantities, certifications, slogans or health claims. No props, no extra containers, no collage. Use the supplied frontal photograph as the mandatory identity reference. Preserve the exact same container, cap, label layout, brand, product name, colors and materials. Change only the camera to a subtle three-quarter angle and slightly closer framing; keep the full container and both text fields visible. Do not show a back label or invent information.",
+      "status": "reviewed",
+      "sha256": "64832cf5d643cdc3e19b36feedc80f535a6ab3f6ccd3970b6d9a9e8ff06a2574",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "kind": "products",
+      "url": "/images/products/product-045-front.png",
+      "file": "products/product-045-front.png",
+      "productId": "product-261009-045",
+      "brand": "Juniper Axis",
+      "name": "Night Blend Softgels",
+      "categoryId": "wellness",
+      "description": "Night Blend in a softgels format for a simple daily wellness routine.",
+      "presentation": "Softgels",
+      "view": "front",
+      "reference": null,
+      "prompt": "Use case: product-mockup. Create one photorealistic fictional e-commerce catalog photograph, square 1024x1024 PNG. Subject: compact supplement bottle with a screw cap for Night Blend Softgels by fictional brand Juniper Axis. Presentation: softgels. Catalog description for context only: Night Blend in a softgels format for a simple daily wellness routine. Label text, exactly two fields and no other text: \"Juniper Axis\" and \"Night Blend Softgels\". Understated label in muted teal and cream, clean large typography, refined materials. Warm off-white seamless studio background, soft natural studio lighting, realistic soft contact shadow. The entire closed container stays inside the central 70% of the square, with generous clear margin on every edge. No real brands, logos, watermarks, badges, nutritional panels, dosages, quantities, certifications, slogans or health claims. No props, no extra containers, no collage. Front-facing camera at label height, straight verticals, crisp legible label.",
+      "status": "reviewed",
+      "sha256": "f17057533837942da7969168ddef63383fec1364c9df3a906fbb4ef98354657b",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "kind": "products",
+      "url": "/images/products/product-045-detail.png",
+      "file": "products/product-045-detail.png",
+      "productId": "product-261009-045",
+      "brand": "Juniper Axis",
+      "name": "Night Blend Softgels",
+      "categoryId": "wellness",
+      "description": "Night Blend in a softgels format for a simple daily wellness routine.",
+      "presentation": "Softgels",
+      "view": "detail",
+      "reference": "/images/products/product-045-front.png",
+      "prompt": "Use case: product-mockup. Create one photorealistic fictional e-commerce catalog photograph, square 1024x1024 PNG. Subject: compact supplement bottle with a screw cap for Night Blend Softgels by fictional brand Juniper Axis. Presentation: softgels. Catalog description for context only: Night Blend in a softgels format for a simple daily wellness routine. Label text, exactly two fields and no other text: \"Juniper Axis\" and \"Night Blend Softgels\". Understated label in muted teal and cream, clean large typography, refined materials. Warm off-white seamless studio background, soft natural studio lighting, realistic soft contact shadow. The entire closed container stays inside the central 70% of the square, with generous clear margin on every edge. No real brands, logos, watermarks, badges, nutritional panels, dosages, quantities, certifications, slogans or health claims. No props, no extra containers, no collage. Use the supplied frontal photograph as the mandatory identity reference. Preserve the exact same container, cap, label layout, brand, product name, colors and materials. Change only the camera to a subtle three-quarter angle and slightly closer framing; keep the full container and both text fields visible. Do not show a back label or invent information.",
+      "status": "reviewed",
+      "sha256": "61b33944672adf7f497349cead76035eb753a14411a778d842b78a9139813b2d",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "kind": "products",
+      "url": "/images/products/product-056-front.png",
+      "file": "products/product-056-front.png",
+      "productId": "product-261009-056",
+      "brand": "BloomArc Wellness",
+      "name": "Sunlight D Softgels",
+      "categoryId": "vitamins",
+      "description": "Sunlight D in a softgels format for a simple daily wellness routine.",
+      "presentation": "Softgels",
+      "view": "front",
+      "reference": null,
+      "prompt": "Use case: product-mockup. Create one photorealistic fictional e-commerce catalog photograph, square 1024x1024 PNG. Subject: compact supplement bottle with a screw cap for Sunlight D Softgels by fictional brand BloomArc Wellness. Presentation: softgels. Catalog description for context only: Sunlight D in a softgels format for a simple daily wellness routine. Label text, exactly two fields and no other text: \"BloomArc Wellness\" and \"Sunlight D Softgels\". Understated label in muted amber and forest green, clean large typography, refined materials. Warm off-white seamless studio background, soft natural studio lighting, realistic soft contact shadow. The entire closed container stays inside the central 70% of the square, with generous clear margin on every edge. No real brands, logos, watermarks, badges, nutritional panels, dosages, quantities, certifications, slogans or health claims. No props, no extra containers, no collage. Front-facing camera at label height, straight verticals, crisp legible label.",
+      "status": "reviewed",
+      "sha256": "60d0d238651cb542a5263707870b0ce9116703ac7ba621cc0daee33b7f7d4914",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "kind": "products",
+      "url": "/images/products/product-056-detail.png",
+      "file": "products/product-056-detail.png",
+      "productId": "product-261009-056",
+      "brand": "BloomArc Wellness",
+      "name": "Sunlight D Softgels",
+      "categoryId": "vitamins",
+      "description": "Sunlight D in a softgels format for a simple daily wellness routine.",
+      "presentation": "Softgels",
+      "view": "detail",
+      "reference": "/images/products/product-056-front.png",
+      "prompt": "Use case: product-mockup. Create one photorealistic fictional e-commerce catalog photograph, square 1024x1024 PNG. Subject: compact supplement bottle with a screw cap for Sunlight D Softgels by fictional brand BloomArc Wellness. Presentation: softgels. Catalog description for context only: Sunlight D in a softgels format for a simple daily wellness routine. Label text, exactly two fields and no other text: \"BloomArc Wellness\" and \"Sunlight D Softgels\". Understated label in muted amber and forest green, clean large typography, refined materials. Warm off-white seamless studio background, soft natural studio lighting, realistic soft contact shadow. The entire closed container stays inside the central 70% of the square, with generous clear margin on every edge. No real brands, logos, watermarks, badges, nutritional panels, dosages, quantities, certifications, slogans or health claims. No props, no extra containers, no collage. Use the supplied frontal photograph as the mandatory identity reference. Preserve the exact same container, cap, label layout, brand, product name, colors and materials. Change only the camera to a subtle three-quarter angle and slightly closer framing; keep the full container and both text fields visible. Do not show a back label or invent information.",
+      "status": "reviewed",
+      "sha256": "598606f8683957a762f4bd1633ed987859edfe58c0d2ab10c035bb964a0fec49",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "kind": "products",
+      "url": "/images/products/product-067-front.png",
+      "file": "products/product-067-front.png",
+      "productId": "product-261009-067",
+      "brand": "MossPeak Formulas",
+      "name": "Zinc Balance Tablets",
+      "categoryId": "minerals",
+      "description": "Zinc Balance in a tablets format for a simple daily wellness routine.",
+      "presentation": "Tablets",
+      "view": "front",
+      "reference": null,
+      "prompt": "Use case: product-mockup. Create one photorealistic fictional e-commerce catalog photograph, square 1024x1024 PNG. Subject: compact supplement bottle with a screw cap for Zinc Balance Tablets by fictional brand MossPeak Formulas. Presentation: tablets. Catalog description for context only: Zinc Balance in a tablets format for a simple daily wellness routine. Label text, exactly two fields and no other text: \"MossPeak Formulas\" and \"Zinc Balance Tablets\". Understated label in slate blue and sage, clean large typography, refined materials. Warm off-white seamless studio background, soft natural studio lighting, realistic soft contact shadow. The entire closed container stays inside the central 70% of the square, with generous clear margin on every edge. No real brands, logos, watermarks, badges, nutritional panels, dosages, quantities, certifications, slogans or health claims. No props, no extra containers, no collage. Front-facing camera at label height, straight verticals, crisp legible label.",
+      "status": "reviewed",
+      "sha256": "d3ea347a88c4586bedd6c4e24d5f6cb8621172ba77b152ad6d69496dc04f27af",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "kind": "products",
+      "url": "/images/products/product-067-detail.png",
+      "file": "products/product-067-detail.png",
+      "productId": "product-261009-067",
+      "brand": "MossPeak Formulas",
+      "name": "Zinc Balance Tablets",
+      "categoryId": "minerals",
+      "description": "Zinc Balance in a tablets format for a simple daily wellness routine.",
+      "presentation": "Tablets",
+      "view": "detail",
+      "reference": "/images/products/product-067-front.png",
+      "prompt": "Use case: product-mockup. Create one photorealistic fictional e-commerce catalog photograph, square 1024x1024 PNG. Subject: compact supplement bottle with a screw cap for Zinc Balance Tablets by fictional brand MossPeak Formulas. Presentation: tablets. Catalog description for context only: Zinc Balance in a tablets format for a simple daily wellness routine. Label text, exactly two fields and no other text: \"MossPeak Formulas\" and \"Zinc Balance Tablets\". Understated label in slate blue and sage, clean large typography, refined materials. Warm off-white seamless studio background, soft natural studio lighting, realistic soft contact shadow. The entire closed container stays inside the central 70% of the square, with generous clear margin on every edge. No real brands, logos, watermarks, badges, nutritional panels, dosages, quantities, certifications, slogans or health claims. No props, no extra containers, no collage. Use the supplied frontal photograph as the mandatory identity reference. Preserve the exact same container, cap, label layout, brand, product name, colors and materials. Change only the camera to a subtle three-quarter angle and slightly closer framing; keep the full container and both text fields visible. Do not show a back label or invent information.",
+      "status": "reviewed",
+      "sha256": "a8ed8578cd765f30ade664fab8ef36c6976a11e02abdaf0d75d3dac09b9a03e6",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "kind": "products",
+      "url": "/images/products/product-078-front.png",
+      "file": "products/product-078-front.png",
+      "productId": "product-261009-078",
+      "brand": "BloomArc Wellness",
+      "name": "Pea Protein Tablets",
+      "categoryId": "protein",
+      "description": "Pea Protein in a tablets format for a simple daily wellness routine.",
+      "presentation": "Tablets",
+      "view": "front",
+      "reference": null,
+      "prompt": "Use case: product-mockup. Create one photorealistic fictional e-commerce catalog photograph, square 1024x1024 PNG. Subject: compact supplement bottle with a screw cap for Pea Protein Tablets by fictional brand BloomArc Wellness. Presentation: tablets. Catalog description for context only: Pea Protein in a tablets format for a simple daily wellness routine. Label text, exactly two fields and no other text: \"BloomArc Wellness\" and \"Pea Protein Tablets\". Understated label in warm terracotta and cream, clean large typography, refined materials. Warm off-white seamless studio background, soft natural studio lighting, realistic soft contact shadow. The entire closed container stays inside the central 70% of the square, with generous clear margin on every edge. No real brands, logos, watermarks, badges, nutritional panels, dosages, quantities, certifications, slogans or health claims. No props, no extra containers, no collage. Front-facing camera at label height, straight verticals, crisp legible label.",
+      "status": "reviewed",
+      "sha256": "7a6177b693348c9fa271120103a82ec8088b828c3f9b97643902a5eaa70c924b",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "kind": "products",
+      "url": "/images/products/product-078-detail.png",
+      "file": "products/product-078-detail.png",
+      "productId": "product-261009-078",
+      "brand": "BloomArc Wellness",
+      "name": "Pea Protein Tablets",
+      "categoryId": "protein",
+      "description": "Pea Protein in a tablets format for a simple daily wellness routine.",
+      "presentation": "Tablets",
+      "view": "detail",
+      "reference": "/images/products/product-078-front.png",
+      "prompt": "Use case: product-mockup. Create one photorealistic fictional e-commerce catalog photograph, square 1024x1024 PNG. Subject: compact supplement bottle with a screw cap for Pea Protein Tablets by fictional brand BloomArc Wellness. Presentation: tablets. Catalog description for context only: Pea Protein in a tablets format for a simple daily wellness routine. Label text, exactly two fields and no other text: \"BloomArc Wellness\" and \"Pea Protein Tablets\". Understated label in warm terracotta and cream, clean large typography, refined materials. Warm off-white seamless studio background, soft natural studio lighting, realistic soft contact shadow. The entire closed container stays inside the central 70% of the square, with generous clear margin on every edge. No real brands, logos, watermarks, badges, nutritional panels, dosages, quantities, certifications, slogans or health claims. No props, no extra containers, no collage. Use the supplied frontal photograph as the mandatory identity reference. Preserve the exact same container, cap, label layout, brand, product name, colors and materials. Change only the camera to a subtle three-quarter angle and slightly closer framing; keep the full container and both text fields visible. Do not show a back label or invent information.",
+      "status": "reviewed",
+      "sha256": "a9dbe1d94cc5cef659026c9a585342eeaddfc572e5e2017b43f12f18b7c953cf",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "kind": "products",
+      "url": "/images/products/product-005-front.png",
+      "file": "products/product-005-front.png",
+      "productId": "product-261009-005",
+      "brand": "HerbStore Essentials",
+      "name": "Daily Cultures Softgels",
+      "categoryId": "wellness",
+      "description": "Daily Cultures in a softgels format for a simple daily wellness routine.",
+      "presentation": "Softgels",
+      "view": "front",
+      "reference": null,
+      "prompt": "Use case: product-mockup. Create one photorealistic fictional e-commerce catalog photograph, square 1024x1024 PNG. Subject: compact supplement bottle with a screw cap for Daily Cultures Softgels by fictional brand HerbStore Essentials. Presentation: softgels. Catalog description for context only: Daily Cultures in a softgels format for a simple daily wellness routine. Label text, exactly two fields and no other text: \"HerbStore Essentials\" and \"Daily Cultures Softgels\". Understated label in muted teal and cream, clean large typography, refined materials. Warm off-white seamless studio background, soft natural studio lighting, realistic soft contact shadow. The entire closed container stays inside the central 70% of the square, with generous clear margin on every edge. No real brands, logos, watermarks, badges, nutritional panels, dosages, quantities, certifications, slogans or health claims. No props, no extra containers, no collage. Front-facing camera at label height, straight verticals, crisp legible label.",
+      "status": "reviewed",
+      "sha256": "c8435db38c7b181550a615a7111a45eedde7c559886378bdcd3cce98c466c781",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "kind": "products",
+      "url": "/images/products/product-005-detail.png",
+      "file": "products/product-005-detail.png",
+      "productId": "product-261009-005",
+      "brand": "HerbStore Essentials",
+      "name": "Daily Cultures Softgels",
+      "categoryId": "wellness",
+      "description": "Daily Cultures in a softgels format for a simple daily wellness routine.",
+      "presentation": "Softgels",
+      "view": "detail",
+      "reference": "/images/products/product-005-front.png",
+      "prompt": "Use case: product-mockup. Create one photorealistic fictional e-commerce catalog photograph, square 1024x1024 PNG. Subject: compact supplement bottle with a screw cap for Daily Cultures Softgels by fictional brand HerbStore Essentials. Presentation: softgels. Catalog description for context only: Daily Cultures in a softgels format for a simple daily wellness routine. Label text, exactly two fields and no other text: \"HerbStore Essentials\" and \"Daily Cultures Softgels\". Understated label in muted teal and cream, clean large typography, refined materials. Warm off-white seamless studio background, soft natural studio lighting, realistic soft contact shadow. The entire closed container stays inside the central 70% of the square, with generous clear margin on every edge. No real brands, logos, watermarks, badges, nutritional panels, dosages, quantities, certifications, slogans or health claims. No props, no extra containers, no collage. Use the supplied frontal photograph as the mandatory identity reference. Preserve the exact same container, cap, label layout, brand, product name, colors and materials. Change only the camera to a subtle three-quarter angle and slightly closer framing; keep the full container and both text fields visible. Do not show a back label or invent information.",
+      "status": "reviewed",
+      "sha256": "47b019f48c8b14c99565fbce628f34b6dbcd131315ac09c04717e4617e2b260e",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "kind": "products",
+      "url": "/images/products/product-009-front.png",
+      "file": "products/product-009-front.png",
+      "productId": "product-261009-009",
+      "brand": "HerbStore Essentials",
+      "name": "Woodland Blend Tablets",
+      "categoryId": "botanicals",
+      "description": "Woodland Blend in a tablets format for a simple daily wellness routine.",
+      "presentation": "Tablets",
+      "view": "front",
+      "reference": null,
+      "prompt": "Use case: product-mockup. Create one photorealistic fictional e-commerce catalog photograph, square 1024x1024 PNG. Subject: compact supplement bottle with a screw cap for Woodland Blend Tablets by fictional brand HerbStore Essentials. Presentation: tablets. Catalog description for context only: Woodland Blend in a tablets format for a simple daily wellness routine. Label text, exactly two fields and no other text: \"HerbStore Essentials\" and \"Woodland Blend Tablets\". Understated label in deep botanical green and warm ivory, clean large typography, refined materials. Warm off-white seamless studio background, soft natural studio lighting, realistic soft contact shadow. The entire closed container stays inside the central 70% of the square, with generous clear margin on every edge. No real brands, logos, watermarks, badges, nutritional panels, dosages, quantities, certifications, slogans or health claims. No props, no extra containers, no collage. Front-facing camera at label height, straight verticals, crisp legible label.",
+      "status": "reviewed",
+      "sha256": "ac018a125a5bb74ab02c1494cef6ea54e5db83b2d5902fd465db03243baf31b7",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "kind": "products",
+      "url": "/images/products/product-009-detail.png",
+      "file": "products/product-009-detail.png",
+      "productId": "product-261009-009",
+      "brand": "HerbStore Essentials",
+      "name": "Woodland Blend Tablets",
+      "categoryId": "botanicals",
+      "description": "Woodland Blend in a tablets format for a simple daily wellness routine.",
+      "presentation": "Tablets",
+      "view": "detail",
+      "reference": "/images/products/product-009-front.png",
+      "prompt": "Use case: product-mockup. Create one photorealistic fictional e-commerce catalog photograph, square 1024x1024 PNG. Subject: compact supplement bottle with a screw cap for Woodland Blend Tablets by fictional brand HerbStore Essentials. Presentation: tablets. Catalog description for context only: Woodland Blend in a tablets format for a simple daily wellness routine. Label text, exactly two fields and no other text: \"HerbStore Essentials\" and \"Woodland Blend Tablets\". Understated label in deep botanical green and warm ivory, clean large typography, refined materials. Warm off-white seamless studio background, soft natural studio lighting, realistic soft contact shadow. The entire closed container stays inside the central 70% of the square, with generous clear margin on every edge. No real brands, logos, watermarks, badges, nutritional panels, dosages, quantities, certifications, slogans or health claims. No props, no extra containers, no collage. Use the supplied frontal photograph as the mandatory identity reference. Preserve the exact same container, cap, label layout, brand, product name, colors and materials. Change only the camera to a subtle three-quarter angle and slightly closer framing; keep the full container and both text fields visible. Do not show a back label or invent information.",
+      "status": "reviewed",
+      "sha256": "d8156145bbbbd7741ad9528aaf2afe8b6af4996fae0084bc047cd3d8c24fa4e5",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "kind": "products",
+      "url": "/images/products/product-013-front.png",
+      "file": "products/product-013-front.png",
+      "productId": "product-261009-013",
+      "brand": "Verdant Forge",
+      "name": "Essential Aminos Tablets",
+      "categoryId": "protein",
+      "description": "Essential Aminos in a tablets format for a simple daily wellness routine.",
+      "presentation": "Tablets",
+      "view": "front",
+      "reference": null,
+      "prompt": "Use case: product-mockup. Create one photorealistic fictional e-commerce catalog photograph, square 1024x1024 PNG. Subject: compact supplement bottle with a screw cap for Essential Aminos Tablets by fictional brand Verdant Forge. Presentation: tablets. Catalog description for context only: Essential Aminos in a tablets format for a simple daily wellness routine. Label text, exactly two fields and no other text: \"Verdant Forge\" and \"Essential Aminos Tablets\". Understated label in warm terracotta and cream, clean large typography, refined materials. Warm off-white seamless studio background, soft natural studio lighting, realistic soft contact shadow. The entire closed container stays inside the central 70% of the square, with generous clear margin on every edge. No real brands, logos, watermarks, badges, nutritional panels, dosages, quantities, certifications, slogans or health claims. No props, no extra containers, no collage. Front-facing camera at label height, straight verticals, crisp legible label.",
+      "status": "reviewed",
+      "sha256": "6feea985c45930e69a3f9dced6b3ec619bc82a80944580d120f18301c45b1708",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "kind": "products",
+      "url": "/images/products/product-013-detail.png",
+      "file": "products/product-013-detail.png",
+      "productId": "product-261009-013",
+      "brand": "Verdant Forge",
+      "name": "Essential Aminos Tablets",
+      "categoryId": "protein",
+      "description": "Essential Aminos in a tablets format for a simple daily wellness routine.",
+      "presentation": "Tablets",
+      "view": "detail",
+      "reference": "/images/products/product-013-front.png",
+      "prompt": "Use case: product-mockup. Create one photorealistic fictional e-commerce catalog photograph, square 1024x1024 PNG. Subject: compact supplement bottle with a screw cap for Essential Aminos Tablets by fictional brand Verdant Forge. Presentation: tablets. Catalog description for context only: Essential Aminos in a tablets format for a simple daily wellness routine. Label text, exactly two fields and no other text: \"Verdant Forge\" and \"Essential Aminos Tablets\". Understated label in warm terracotta and cream, clean large typography, refined materials. Warm off-white seamless studio background, soft natural studio lighting, realistic soft contact shadow. The entire closed container stays inside the central 70% of the square, with generous clear margin on every edge. No real brands, logos, watermarks, badges, nutritional panels, dosages, quantities, certifications, slogans or health claims. No props, no extra containers, no collage. Use the supplied frontal photograph as the mandatory identity reference. Preserve the exact same container, cap, label layout, brand, product name, colors and materials. Change only the camera to a subtle three-quarter angle and slightly closer framing; keep the full container and both text fields visible. Do not show a back label or invent information.",
+      "status": "reviewed",
+      "sha256": "af06dfabbeb4d8e605fb4570ae30bda6cad89e0d037ea0a444a0a0f7dcbef716",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "kind": "products",
+      "url": "/images/products/product-015-front.png",
+      "file": "products/product-015-front.png",
+      "productId": "product-261009-015",
+      "brand": "HerbStore Essentials",
+      "name": "Evening Calm Capsules",
+      "categoryId": "wellness",
+      "description": "Evening Calm in a capsules format for a simple daily wellness routine.",
+      "presentation": "Capsules",
+      "view": "front",
+      "reference": null,
+      "prompt": "Use case: product-mockup. Create one photorealistic fictional e-commerce catalog photograph, square 1024x1024 PNG. Subject: compact supplement bottle with a screw cap for Evening Calm Capsules by fictional brand HerbStore Essentials. Presentation: capsules. Catalog description for context only: Evening Calm in a capsules format for a simple daily wellness routine. Label text, exactly two fields and no other text: \"HerbStore Essentials\" and \"Evening Calm Capsules\". Understated label in muted teal and cream, clean large typography, refined materials. Warm off-white seamless studio background, soft natural studio lighting, realistic soft contact shadow. The entire closed container stays inside the central 70% of the square, with generous clear margin on every edge. No real brands, logos, watermarks, badges, nutritional panels, dosages, quantities, certifications, slogans or health claims. No props, no extra containers, no collage. Front-facing camera at label height, straight verticals, crisp legible label.",
+      "status": "reviewed",
+      "sha256": "53627d30f620a29db2158e3f442b38d4a6075754ea4654f03be90156ac06ec8c",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "kind": "products",
+      "url": "/images/products/product-015-detail.png",
+      "file": "products/product-015-detail.png",
+      "productId": "product-261009-015",
+      "brand": "HerbStore Essentials",
+      "name": "Evening Calm Capsules",
+      "categoryId": "wellness",
+      "description": "Evening Calm in a capsules format for a simple daily wellness routine.",
+      "presentation": "Capsules",
+      "view": "detail",
+      "reference": "/images/products/product-015-front.png",
+      "prompt": "Use case: product-mockup. Create one photorealistic fictional e-commerce catalog photograph, square 1024x1024 PNG. Subject: compact supplement bottle with a screw cap for Evening Calm Capsules by fictional brand HerbStore Essentials. Presentation: capsules. Catalog description for context only: Evening Calm in a capsules format for a simple daily wellness routine. Label text, exactly two fields and no other text: \"HerbStore Essentials\" and \"Evening Calm Capsules\". Understated label in muted teal and cream, clean large typography, refined materials. Warm off-white seamless studio background, soft natural studio lighting, realistic soft contact shadow. The entire closed container stays inside the central 70% of the square, with generous clear margin on every edge. No real brands, logos, watermarks, badges, nutritional panels, dosages, quantities, certifications, slogans or health claims. No props, no extra containers, no collage. Use the supplied frontal photograph as the mandatory identity reference. Preserve the exact same container, cap, label layout, brand, product name, colors and materials. Change only the camera to a subtle three-quarter angle and slightly closer framing; keep the full container and both text fields visible. Do not show a back label or invent information.",
+      "status": "reviewed",
+      "sha256": "8888ce2c917a9037515433d67a4d7283259eccbd95580df7d5d95f65e3878b69",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "kind": "products",
+      "url": "/images/products/product-017-front.png",
+      "file": "products/product-017-front.png",
+      "productId": "product-261009-017",
+      "brand": "Juniper Axis",
+      "name": "Evening Magnesium Tablets",
+      "categoryId": "minerals",
+      "description": "Evening Magnesium in a tablets format for a simple daily wellness routine.",
+      "presentation": "Tablets",
+      "view": "front",
+      "reference": null,
+      "prompt": "Use case: product-mockup. Create one photorealistic fictional e-commerce catalog photograph, square 1024x1024 PNG. Subject: compact supplement bottle with a screw cap for Evening Magnesium Tablets by fictional brand Juniper Axis. Presentation: tablets. Catalog description for context only: Evening Magnesium in a tablets format for a simple daily wellness routine. Label text, exactly two fields and no other text: \"Juniper Axis\" and \"Evening Magnesium Tablets\". Understated label in slate blue and sage, clean large typography, refined materials. Warm off-white seamless studio background, soft natural studio lighting, realistic soft contact shadow. The entire closed container stays inside the central 70% of the square, with generous clear margin on every edge. No real brands, logos, watermarks, badges, nutritional panels, dosages, quantities, certifications, slogans or health claims. No props, no extra containers, no collage. Front-facing camera at label height, straight verticals, crisp legible label.",
+      "status": "reviewed",
+      "sha256": "ab5a901933dac65fc6eec8b0fda3c289397aab0a581b3fbee3bf76aab8cec242",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "kind": "products",
+      "url": "/images/products/product-017-detail.png",
+      "file": "products/product-017-detail.png",
+      "productId": "product-261009-017",
+      "brand": "Juniper Axis",
+      "name": "Evening Magnesium Tablets",
+      "categoryId": "minerals",
+      "description": "Evening Magnesium in a tablets format for a simple daily wellness routine.",
+      "presentation": "Tablets",
+      "view": "detail",
+      "reference": "/images/products/product-017-front.png",
+      "prompt": "Use case: product-mockup. Create one photorealistic fictional e-commerce catalog photograph, square 1024x1024 PNG. Subject: compact supplement bottle with a screw cap for Evening Magnesium Tablets by fictional brand Juniper Axis. Presentation: tablets. Catalog description for context only: Evening Magnesium in a tablets format for a simple daily wellness routine. Label text, exactly two fields and no other text: \"Juniper Axis\" and \"Evening Magnesium Tablets\". Understated label in slate blue and sage, clean large typography, refined materials. Warm off-white seamless studio background, soft natural studio lighting, realistic soft contact shadow. The entire closed container stays inside the central 70% of the square, with generous clear margin on every edge. No real brands, logos, watermarks, badges, nutritional panels, dosages, quantities, certifications, slogans or health claims. No props, no extra containers, no collage. Use the supplied frontal photograph as the mandatory identity reference. Preserve the exact same container, cap, label layout, brand, product name, colors and materials. Change only the camera to a subtle three-quarter angle and slightly closer framing; keep the full container and both text fields visible. Do not show a back label or invent information.",
+      "status": "reviewed",
+      "sha256": "efa8ae22888753758a1638f636062093764df903012a31e2ac0652d108171487",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "kind": "products",
+      "url": "/images/products/product-021-front.png",
+      "file": "products/product-021-front.png",
+      "productId": "product-261009-021",
+      "brand": "HerbStore Essentials",
+      "name": "Buffered C Powder",
+      "categoryId": "vitamins",
+      "description": "Buffered C in a powder format for a simple daily wellness routine.",
+      "presentation": "Powder",
+      "view": "front",
+      "reference": null,
+      "prompt": "Use case: product-mockup. Create one photorealistic fictional e-commerce catalog photograph, square 1024x1024 PNG. Subject: wide cylindrical powder tub with a screw lid for Buffered C Powder by fictional brand HerbStore Essentials. Presentation: powder. Catalog description for context only: Buffered C in a powder format for a simple daily wellness routine. Label text, exactly two fields and no other text: \"HerbStore Essentials\" and \"Buffered C Powder\". Understated label in muted amber and forest green, clean large typography, refined materials. Warm off-white seamless studio background, soft natural studio lighting, realistic soft contact shadow. The entire closed container stays inside the central 70% of the square, with generous clear margin on every edge. No real brands, logos, watermarks, badges, nutritional panels, dosages, quantities, certifications, slogans or health claims. No props, no extra containers, no collage. Front-facing camera at label height, straight verticals, crisp legible label.",
+      "status": "reviewed",
+      "sha256": "1b18e6688b2b39bc337f861b23390e451e30eee03c6d6d08025c87f5d08a01b2",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "kind": "products",
+      "url": "/images/products/product-021-detail.png",
+      "file": "products/product-021-detail.png",
+      "productId": "product-261009-021",
+      "brand": "HerbStore Essentials",
+      "name": "Buffered C Powder",
+      "categoryId": "vitamins",
+      "description": "Buffered C in a powder format for a simple daily wellness routine.",
+      "presentation": "Powder",
+      "view": "detail",
+      "reference": "/images/products/product-021-front.png",
+      "prompt": "Use case: product-mockup. Create one photorealistic fictional e-commerce catalog photograph, square 1024x1024 PNG. Subject: wide cylindrical powder tub with a screw lid for Buffered C Powder by fictional brand HerbStore Essentials. Presentation: powder. Catalog description for context only: Buffered C in a powder format for a simple daily wellness routine. Label text, exactly two fields and no other text: \"HerbStore Essentials\" and \"Buffered C Powder\". Understated label in muted amber and forest green, clean large typography, refined materials. Warm off-white seamless studio background, soft natural studio lighting, realistic soft contact shadow. The entire closed container stays inside the central 70% of the square, with generous clear margin on every edge. No real brands, logos, watermarks, badges, nutritional panels, dosages, quantities, certifications, slogans or health claims. No props, no extra containers, no collage. Use the supplied frontal photograph as the mandatory identity reference. Preserve the exact same container, cap, label layout, brand, product name, colors and materials. Change only the camera to a subtle three-quarter angle and slightly closer framing; keep the full container and both text fields visible. Do not show a back label or invent information.",
+      "status": "reviewed",
+      "sha256": "e24c955a7aedfc09dd0695d7e84f2c685f504a1a5b92d13e2085760946e0ee09",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "kind": "products",
+      "url": "/images/products/product-022-front.png",
+      "file": "products/product-022-front.png",
+      "productId": "product-261009-022",
+      "brand": "HerbStore Essentials",
+      "name": "Zinc Complex Powder",
+      "categoryId": "minerals",
+      "description": "Zinc Complex in a powder format for a simple daily wellness routine.",
+      "presentation": "Powder",
+      "view": "front",
+      "reference": null,
+      "prompt": "Use case: product-mockup. Create one photorealistic fictional e-commerce catalog photograph, square 1024x1024 PNG. Subject: wide cylindrical powder tub with a screw lid for Zinc Complex Powder by fictional brand HerbStore Essentials. Presentation: powder. Catalog description for context only: Zinc Complex in a powder format for a simple daily wellness routine. Label text, exactly two fields and no other text: \"HerbStore Essentials\" and \"Zinc Complex Powder\". Understated label in slate blue and sage, clean large typography, refined materials. Warm off-white seamless studio background, soft natural studio lighting, realistic soft contact shadow. The entire closed container stays inside the central 70% of the square, with generous clear margin on every edge. No real brands, logos, watermarks, badges, nutritional panels, dosages, quantities, certifications, slogans or health claims. No props, no extra containers, no collage. Front-facing camera at label height, straight verticals, crisp legible label.",
+      "status": "reviewed",
+      "sha256": "d449455bc5d6dba4a5ffb58599d248f96e91e0c22cfc9994583b41bb1f73fe6d",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "kind": "products",
+      "url": "/images/products/product-022-detail.png",
+      "file": "products/product-022-detail.png",
+      "productId": "product-261009-022",
+      "brand": "HerbStore Essentials",
+      "name": "Zinc Complex Powder",
+      "categoryId": "minerals",
+      "description": "Zinc Complex in a powder format for a simple daily wellness routine.",
+      "presentation": "Powder",
+      "view": "detail",
+      "reference": "/images/products/product-022-front.png",
+      "prompt": "Use case: product-mockup. Create one photorealistic fictional e-commerce catalog photograph, square 1024x1024 PNG. Subject: wide cylindrical powder tub with a screw lid for Zinc Complex Powder by fictional brand HerbStore Essentials. Presentation: powder. Catalog description for context only: Zinc Complex in a powder format for a simple daily wellness routine. Label text, exactly two fields and no other text: \"HerbStore Essentials\" and \"Zinc Complex Powder\". Understated label in slate blue and sage, clean large typography, refined materials. Warm off-white seamless studio background, soft natural studio lighting, realistic soft contact shadow. The entire closed container stays inside the central 70% of the square, with generous clear margin on every edge. No real brands, logos, watermarks, badges, nutritional panels, dosages, quantities, certifications, slogans or health claims. No props, no extra containers, no collage. Use the supplied frontal photograph as the mandatory identity reference. Preserve the exact same container, cap, label layout, brand, product name, colors and materials. Change only the camera to a subtle three-quarter angle and slightly closer framing; keep the full container and both text fields visible. Do not show a back label or invent information.",
+      "status": "reviewed",
+      "sha256": "e6c119a1f55f343ab4e0e5639dd47d757a01d56cfad4632387abeccca24fbdee",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "kind": "products",
+      "url": "/images/products/product-025-front.png",
+      "file": "products/product-025-front.png",
+      "productId": "product-261009-025",
+      "brand": "BloomArc Wellness",
+      "name": "Plant Omega Powder",
+      "categoryId": "wellness",
+      "description": "Plant Omega in a powder format for a simple daily wellness routine.",
+      "presentation": "Powder",
+      "view": "front",
+      "reference": null,
+      "prompt": "Use case: product-mockup. Create one photorealistic fictional e-commerce catalog photograph, square 1024x1024 PNG. Subject: wide cylindrical powder tub with a screw lid for Plant Omega Powder by fictional brand BloomArc Wellness. Presentation: powder. Catalog description for context only: Plant Omega in a powder format for a simple daily wellness routine. Label text, exactly two fields and no other text: \"BloomArc Wellness\" and \"Plant Omega Powder\". Understated label in muted teal and cream, clean large typography, refined materials. Warm off-white seamless studio background, soft natural studio lighting, realistic soft contact shadow. The entire closed container stays inside the central 70% of the square, with generous clear margin on every edge. No real brands, logos, watermarks, badges, nutritional panels, dosages, quantities, certifications, slogans or health claims. No props, no extra containers, no collage. Front-facing camera at label height, straight verticals, crisp legible label.",
+      "status": "reviewed",
+      "sha256": "0528005b34468b989736e655ad110a2763dedaa7cb2137bd7efd3e64cdfc77c3",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "kind": "products",
+      "url": "/images/products/product-025-detail.png",
+      "file": "products/product-025-detail.png",
+      "productId": "product-261009-025",
+      "brand": "BloomArc Wellness",
+      "name": "Plant Omega Powder",
+      "categoryId": "wellness",
+      "description": "Plant Omega in a powder format for a simple daily wellness routine.",
+      "presentation": "Powder",
+      "view": "detail",
+      "reference": "/images/products/product-025-front.png",
+      "prompt": "Use case: product-mockup. Create one photorealistic fictional e-commerce catalog photograph, square 1024x1024 PNG. Subject: wide cylindrical powder tub with a screw lid for Plant Omega Powder by fictional brand BloomArc Wellness. Presentation: powder. Catalog description for context only: Plant Omega in a powder format for a simple daily wellness routine. Label text, exactly two fields and no other text: \"BloomArc Wellness\" and \"Plant Omega Powder\". Understated label in muted teal and cream, clean large typography, refined materials. Warm off-white seamless studio background, soft natural studio lighting, realistic soft contact shadow. The entire closed container stays inside the central 70% of the square, with generous clear margin on every edge. No real brands, logos, watermarks, badges, nutritional panels, dosages, quantities, certifications, slogans or health claims. No props, no extra containers, no collage. Use the supplied frontal photograph as the mandatory identity reference. Preserve the exact same container, cap, label layout, brand, product name, colors and materials. Change only the camera to a subtle three-quarter angle and slightly closer framing; keep the full container and both text fields visible. Do not show a back label or invent information.",
+      "status": "reviewed",
+      "sha256": "a5aad9f5e6898f4a8b345e12bde69ee8fe4c461abf46beca0795e8d72298873e",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "kind": "categories",
+      "url": "/images/categories/vitamins.png",
+      "file": "categories/vitamins.png",
+      "categoryId": "vitamins",
+      "name": "Vitamins",
+      "description": "a small unlabelled amber glass bottle with a plain cap beside a fresh cut orange and a few simple round tablets",
+      "prompt": "Use case: product-mockup. Create one photorealistic studio category thumbnail for a fictional supplement store, square 1024x1024 PNG. Subject: a small unlabelled amber glass bottle with a plain cap beside a fresh cut orange and a few simple round tablets. All subjects compactly grouped inside the central 65% of the square, completely visible when cropped to a circle. Warm off-white seamless background, soft studio lighting, delicate contact shadows, restrained muted amber and forest green accents. Simple clear silhouettes readable at 72 pixels. No text, no letters, no brands, no logos, no watermarks, no medical claims, no border or drawn circle.",
+      "status": "reviewed",
+      "sha256": "e047ca973bf1ee08808fb416e173c617a0d1ab736ee2c28eba530c8c2c3703dd",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "kind": "categories",
+      "url": "/images/categories/minerals.png",
+      "file": "categories/minerals.png",
+      "categoryId": "minerals",
+      "name": "Minerals",
+      "description": "a small unlabelled matte bottle beside a few smooth mineral stones and simple round tablets",
+      "prompt": "Use case: product-mockup. Create one photorealistic studio category thumbnail for a fictional supplement store, square 1024x1024 PNG. Subject: a small unlabelled matte bottle beside a few smooth mineral stones and simple round tablets. All subjects compactly grouped inside the central 65% of the square, completely visible when cropped to a circle. Warm off-white seamless background, soft studio lighting, delicate contact shadows, restrained slate blue and sage accents. Simple clear silhouettes readable at 72 pixels. No text, no letters, no brands, no logos, no watermarks, no medical claims, no border or drawn circle.",
+      "status": "reviewed",
+      "sha256": "d1a7dab1029ee6a36f847a58f621910c7864b3dbc145f5cbac84457155be8acb",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "kind": "categories",
+      "url": "/images/categories/protein.png",
+      "file": "categories/protein.png",
+      "categoryId": "protein",
+      "name": "Protein",
+      "description": "a small unlabelled cream powder tub beside a wooden scoop of fine pale powder and a few peas",
+      "prompt": "Use case: product-mockup. Create one photorealistic studio category thumbnail for a fictional supplement store, square 1024x1024 PNG. Subject: a small unlabelled cream powder tub beside a wooden scoop of fine pale powder and a few peas. All subjects compactly grouped inside the central 65% of the square, completely visible when cropped to a circle. Warm off-white seamless background, soft studio lighting, delicate contact shadows, restrained warm terracotta and cream accents. Simple clear silhouettes readable at 72 pixels. No text, no letters, no brands, no logos, no watermarks, no medical claims, no border or drawn circle.",
+      "status": "reviewed",
+      "sha256": "76d5ca166fb5713a4ef8979c645270575b3bb8aea31d8f0467fb645047293e94",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "kind": "categories",
+      "url": "/images/categories/botanicals.png",
+      "file": "categories/botanicals.png",
+      "categoryId": "botanicals",
+      "name": "Botanicals",
+      "description": "a carefully arranged botanical still life of fresh green leaves, small roots and two small mushrooms",
+      "prompt": "Use case: product-mockup. Create one photorealistic studio category thumbnail for a fictional supplement store, square 1024x1024 PNG. Subject: a carefully arranged botanical still life of fresh green leaves, small roots and two small mushrooms. All subjects compactly grouped inside the central 65% of the square, completely visible when cropped to a circle. Warm off-white seamless background, soft studio lighting, delicate contact shadows, restrained deep botanical green and warm ivory accents. Simple clear silhouettes readable at 72 pixels. No text, no letters, no brands, no logos, no watermarks, no medical claims, no border or drawn circle.",
+      "status": "reviewed",
+      "sha256": "f0cb643091315013c6b3f7c3d2061f01d500b4c6a33fa8f61a43e87facc0f36d",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "kind": "categories",
+      "url": "/images/categories/wellness.png",
+      "file": "categories/wellness.png",
+      "categoryId": "wellness",
+      "name": "Wellness",
+      "description": "a small unlabelled frosted bottle beside green leaves and a folded cream linen cloth",
+      "prompt": "Use case: product-mockup. Create one photorealistic studio category thumbnail for a fictional supplement store, square 1024x1024 PNG. Subject: a small unlabelled frosted bottle beside green leaves and a folded cream linen cloth. All subjects compactly grouped inside the central 65% of the square, completely visible when cropped to a circle. Warm off-white seamless background, soft studio lighting, delicate contact shadows, restrained muted teal and cream accents. Simple clear silhouettes readable at 72 pixels. No text, no letters, no brands, no logos, no watermarks, no medical claims, no border or drawn circle.",
+      "status": "reviewed",
+      "sha256": "eec764e92517ae38d036acfd2b28fc937c8367e8b6fb78783a3f5250a4c66d6e",
+      "dimensions": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "kind": "banners",
+      "url": "/images/banners/daily-wellness.png",
+      "file": "banners/daily-wellness.png",
+      "name": "Daily wellness essentials",
+      "description": "three fictional unlabelled supplement containers of varied heights in muted amber, cream and sage, neatly arranged with a few fresh leaves on a warm ivory studio surface",
+      "prompt": "Use case: ads-marketing. Create one photorealistic editorial studio banner for a fictional supplement store. Landscape composition, exactly 16:9 aspect ratio, PNG. Subject: three fictional unlabelled supplement containers of varied heights in muted amber, cream and sage, neatly arranged with a few fresh leaves on a warm ivory studio surface. Sophisticated natural materials, soft daylight from the side, realistic soft shadows, calm botanical feeling. Balanced composition with generous breathing room; all containers fully visible within the central 75% and no edge clipping. This image is displayed above the title \"Daily wellness essentials\" in the app; do NOT include that title or any other text in the image. No letters, no logos, no real brands, no watermarks, no claims, no humans, no collage.",
+      "status": "reviewed",
+      "sha256": "a78f3d62e2ab68eb8cec1ba69055d62e2639d8443014066e086e084e45f27bba",
+      "dimensions": [
+        1672,
+        940
+      ]
+    },
+    {
+      "kind": "banners",
+      "url": "/images/banners/plant-powered.png",
+      "file": "banners/plant-powered.png",
+      "name": "Plant-powered collection",
+      "description": "a fictional unlabelled plant protein powder tub and a small botanical bottle, in ivory and deep sage, arranged with green leaves, a few peas and a wooden scoop of pale powder",
+      "prompt": "Use case: ads-marketing. Create one photorealistic editorial studio banner for a fictional supplement store. Landscape composition, exactly 16:9 aspect ratio, PNG. Subject: a fictional unlabelled plant protein powder tub and a small botanical bottle, in ivory and deep sage, arranged with green leaves, a few peas and a wooden scoop of pale powder. Sophisticated natural materials, soft daylight from the side, realistic soft shadows, calm botanical feeling. Balanced composition with generous breathing room; all containers fully visible within the central 75% and no edge clipping. This image is displayed above the title \"Plant-powered collection\" in the app; do NOT include that title or any other text in the image. No letters, no logos, no real brands, no watermarks, no claims, no humans, no collage.",
+      "status": "reviewed",
+      "sha256": "1a695050470a2a161f0d50e88ac8b193d94c17712ab5799a416d2b0f66a82f02",
+      "dimensions": [
+        1672,
+        941
+      ]
+    }
+  ]
+}
