@@ -7,9 +7,9 @@
 - Se conservan las URLs y contratos existentes. Los assets se sirven desde `app/catalog/assets/`; los faltantes mantienen placeholder, los nombres inválidos devuelven 404 y ETag/304 funciona por contenido.
 - Validación móvil Android/iOS realizada externamente durante la generación: listas, detalle, carrito, caché fría, reinicio/offline, modo oscuro y texto ampliado, con límites documentados.
 - Evidencia final: `docs/catalog-photography/validation-full-catalog.md`; estado: `docs/catalog-photography/progress.md`.
-- Tareas T1–T8 completas. Reviewer final: APROBADO para RF-1 a RF-6.
+- Tareas T1–T8 completas. Reviewer final: APROBADO para RF-1 a RF-6; cierre documental coherente y sin alcance adicional.
 - Verificaciones: Ruff format/check PASS; `uv run python -m pytest` 26 passed/1 skipped; verificador local 607/607 PASS.
-- Pendientes de entorno: `uv run pytest` falla por shebang obsoleto de `.venv/bin/pytest`; lint/typecheck móvil no ejecutados; API/Docker no disponibles en la sesión final.
+- Incidencias históricas: `uv run pytest` falló por el entorno y una repetición terminó con código 137; se conserva como evidencia válida `uv run python -m pytest` con 26 passed/1 skipped. Lint y typecheck móviles finalizaron correctamente según confirmación externa del usuario.
 
 ## Decisiones permanentes
 

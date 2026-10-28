@@ -1,6 +1,6 @@
 # Plan 001 — Fotografía del catálogo
 
-Este plan queda alineado con la spec aprobada y describe únicamente la entrega ya realizada de 607 imágenes para el catálogo completo. No autoriza ampliar el comportamiento ni cambiar contratos.
+Este plan queda alineado con la spec implementada y describe únicamente la entrega ya realizada de 607 imágenes para el catálogo completo. No autoriza ampliar el comportamiento ni cambiar contratos.
 
 ## RF-1 — Contraste del catálogo completo
 
@@ -9,10 +9,10 @@ Este plan queda alineado con la spec aprobada y describe únicamente la entrega 
 - **Lógica aislable:** validar el manifiesto, seleccionar elementos revisados y verificar originales son operaciones separables de la consulta HTTP.
 - **Contratos JSON/OpenAPI:** se conservan los campos y direcciones JSON existentes; no se añade ni renombra ningún campo.
 - **Persistencia/migraciones:** no aplica; no se cambia el modelo persistente ni se requiere migración.
-- **Transacciones/concurrencia:** no aplica; la verificación es de solo lectura y no crea pedidos ni modifica stock.
+- **Transacciones/concurrencia:** el tráfico del verificador es exclusivamente GET y no crea pedidos. No se describe como estrictamente libre de mutaciones internas: el detalle de producto puede reconciliar estados y confirmar la transacción. Según confirmación externa explícita del usuario, las comparaciones realizadas antes y después de la validación mostraron inventario/stock y órdenes existentes sin cambios.
 - **i18n/privacidad:** se consulta el inventario en inglés para comparar valores estables; no se registran datos privados.
 - **Errores:** cualquier diferencia, archivo ausente o hash incorrecto detiene la declaración de cobertura completa.
-- **Pytest/Ruff/PostgreSQL:** `uv run python -m pytest` pasó 26 tests con 1 omitido; `uv run pytest` no pudo iniciar por `Failed to spawn: pytest` y queda pendiente repetirlo si el entorno lo permite. Ruff quedó aprobado. No se requiere PostgreSQL.
+- **Pytest/Ruff/PostgreSQL:** `uv run python -m pytest` pasó 26 tests con 1 omitido; se conserva la evidencia de que `uv run pytest` no pudo iniciar por `Failed to spawn: pytest`, sin requerir su repetición. Ruff quedó aprobado. No se requiere PostgreSQL.
 
 ## RF-2 — Cobertura y revisión de 607 imágenes
 
@@ -61,16 +61,16 @@ Este plan queda alineado con la spec aprobada y describe únicamente la entrega 
 ## RF-6 — Compatibilidad y validación de la aplicación
 
 - **Archivos y responsabilidades:** `docs/catalog-photography/progress.md` y `validation-full-catalog.md` concentran estado y evidencia; no se tocan catálogo, stock, pedidos o carritos.
-- **Flujo HTTP y de datos:** la aplicación consume las mismas direcciones; se verifican listas, detalle, carrito, reinicio y offline sin crear pedidos.
+- **Flujo HTTP y de datos:** la aplicación consume las mismas direcciones; se verifican listas, detalle, carrito, reinicio y offline sin crear pedidos. El smoke registrado usó exclusivamente GET; esos GET pueden reconciliar estado internamente, por lo que la ausencia de cambios no se infiere del método HTTP.
 - **Lógica aislable:** la comprobación de compatibilidad es validación de contrato y evidencia móvil, separada de la generación.
 - **Contratos JSON/OpenAPI:** smoke exclusivamente GET, 23 OK/0 FAIL; no se alteran envelopes, campos, status ni idiomas.
-- **Persistencia/migraciones:** no hay cambios ni migraciones; se preserva el carrito existente. **Transacciones/concurrencia:** no aplica.
+- **Persistencia/migraciones:** no hay cambios ni migraciones; se preserva el carrito existente. **Transacciones/concurrencia:** según confirmación externa explícita del usuario, las comparaciones realizadas antes y después de la validación mostraron inventario/stock y órdenes existentes sin cambios; esta conclusión no se atribuye únicamente al tráfico GET.
 - **i18n/privacidad:** no se registran datos privados; modo oscuro y texto ampliado no cambian datos.
-- **Errores:** caché antigua puede mostrar degradado hasta revalidación; lint/typecheck móvil y `uv run pytest` permanecen pendientes por limitaciones del entorno.
-- **Pytest/Ruff/PostgreSQL:** Ruff aprobado; `uv run python -m pytest` 26/1; `uv run pytest` falló al crear el proceso (`Failed to spawn: pytest`); la repetición posterior terminó con código 137 y no es válida. PostgreSQL no requiere cambios.
+- **Errores:** una caché antigua puede mostrar un degradado hasta la revalidación; la validación móvil externa y sus límites quedan documentados.
+- **Pytest/Ruff/PostgreSQL:** Ruff aprobado; `uv run python -m pytest` 26/1; se conserva que `uv run pytest` falló al crear el proceso (`Failed to spawn: pytest`) y que la repetición posterior terminó con código 137, sin atribuirles un resultado satisfactorio ni requerir nuevas ejecuciones. El lint y el typecheck móviles finalizaron satisfactoriamente según confirmación externa del usuario. PostgreSQL no requiere cambios.
 
 ## Decisiones y alternativas descartadas
 
 - Se conserva el almacenamiento local de PNG y las direcciones existentes para evitar proveedor externo y cambios móviles; publicar en un servicio nuevo queda fuera de alcance.
 - Se calcula el ETag desde el contenido para hacer observable un cambio real; se descarta invalidación global inmediata porque la caché de 24 horas es existente.
-- Se registra la ejecución alternativa de Pytest sin convertirla en resultado de la invocación canónica fallida; se descarta inventar un resultado.
+- Se conserva la ejecución alternativa de Pytest como evidencia válida sin convertirla en resultado de la invocación canónica fallida ni repetir pruebas ya aprobadas; se descarta inventar un resultado.

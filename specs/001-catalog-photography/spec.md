@@ -1,6 +1,6 @@
 # Spec 001 — Fotografía del catálogo
 
-Estado: aprobada
+Estado: implementada
 
 ## Contexto y objetivo
 
@@ -53,9 +53,9 @@ Sustituir los degradados visibles del catálogo por fotografía de estudio ficti
 - El inventario contiene y relaciona 607 imágenes revisadas: 600 de 300 productos, cinco de categorías y dos banners; no quedan imágenes pendientes.
 - El contraste del inventario con el catálogo completo no presenta diferencias y las 59 imágenes de la entrega previa permanecen intactas.
 - Las imágenes publicadas responden con su contenido correcto; la revalidación sin cambios y el cambio de contenido cumplen RF-5, y los nombres inválidos conservan el error existente.
-- Las pruebas automáticas y la comprobación de formato/lint disponibles quedan registradas con su comando y resultado; las comprobaciones no ejecutables quedan como pendientes explícitos.
+- Las pruebas automáticas y las comprobaciones de formato, lint y tipos quedan registradas con su resultado satisfactorio; la evidencia válida ya obtenida se conserva sin repetirla.
 - La revisión móvil documenta la evidencia realizada en Android e iOS, incluida la caché fría, el carrito persistido, el modo oscuro y el texto ampliado, sin afirmar cobertura exhaustiva donde no exista.
 
 ## Dudas abiertas
 
-- No hay dudas de alcance pendientes. Queda pendiente únicamente repetir lint/typecheck móvil y, si el entorno lo permite, la invocación canónica de Pytest para cerrar la validación técnica; no bloquea la descripción del comportamiento, pero sí el cierre documental de validación.
+- No hay dudas ni comprobaciones de cierre pendientes.
